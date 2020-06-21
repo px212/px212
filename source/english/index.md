@@ -31,24 +31,17 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
-
 - **Xu, P.**, L. Wang, W. Chen, G. Chen, and I-S Kang, 2020: [Intraseasonal variations of the British-Baikal Corridor pattern](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0458.1). *J. Climate*, **33**, 2183-2200.
-
 
 - **Xu, P.**, L. Wang, and W. Chen, 2019: [The British–Baikal Corridor: A Teleconnection Pattern along the Summertime Polar Front Jet over Eurasia](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1). *J. Climate*, **32**, 877–896.
 
-
 - **Xu, P.**, L. Wang, W. Chen, J. Feng, and Y. Liu, 2019: [Structural Changes in the Pacific–Japan Pattern in the Late 1990s](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0123.1). *J. Climate*, **32**, 607–621.
-
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
-
 - Wang, L., L. Wang, Y. Liu, G. Wei, **P. Xu**, and W. Chen, 2019: [The Southwest China floos of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
 
-
 - **Xu, P.**, J. Feng, and W. Chen, 2016: [Asymmetric roles of ENSO in the link between the East Asian winter monsoon and the following summer monsoon (in Chinese)](http://www.dqkxqk.ac.cn/dqkx/dqkx/ch/reader/view_abstract.aspx?file_no=20160413). *Chinese Journal of Atmospheric Sciences*. **40**(4): 831-840.
-
 
 - Yu, G., W. Chen, **P. Xu**, Y. Ma, 2016: [Mechanistic Analysis of the Influence ofthe Latent Heat Associated with the Kuroshio Current on Chinese RainfallAnomalies in Spring (in Chinese)](http://www.dqkxqk.ac.cn/qhhj/qhhj/ch/reader/view_abstract.aspx?file_no=20150511&flag=1). *Climatic and Environmental Research*. **20**(5): 600-610.
 
@@ -56,7 +49,6 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 
 ## CONFERENCES
-
 
 - **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral)
 
