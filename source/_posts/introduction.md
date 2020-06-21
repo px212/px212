@@ -8,7 +8,6 @@ date: 2020-06-21 00:00:00
 我是一名从事大气科学研究的青年科研工作者。我的研究旨在加深我们对夏季大气长波的理解，尤其是与之相关的极端天气和气候事件。我已于2019年6月在中国科学院大气物理研究所获得气象学博士学位，现在大气物理所季风系统研究中心的[王林研究员](http://www.escience.cn/people/wangl/index.html)和[陈文研究员](https://www.researchgate.net/profile/Wen_Chen13?_sg=cFaR0W8yY7lrTS7a5rnlkcFtZBlpZLB8qYm-rju3eskwUDtUqxeAInL_aRs13KKyjYgNtr8uvMAjW8iZDsFFVQ)课题组内从事博士后研究工作。此外，我也是[南京大学地球物理流体力学学生实验室](http://www.njugfd.org/)的一名成员。
 
 ## 最新动态
-  以下按时间顺序排列：
 
 - 请关注我们在JCLI上发表的[新文章](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)，我们发现在考虑到大气的层结效应后，除了大家熟知的副热带急流波导，夏季欧亚大陆地区的极锋急流也可以作为一支大气波导，限制大气长波在南北方向的传播。据此，我们提出了沿夏季极锋急流波导传播的新遥相关型：英国-贝加尔湖走廊（British-Baikal Corridor, BBC）型遥相关。由于当BBC型遥相关发生异常活动时，可以引起欧洲、中西伯利亚以及东北亚地区非常显著的温度和降水变化，因此我们的工作指出研究欧亚大陆中纬度地区夏季气候变异的时候需要关注BBC型遥相关的活动特征。
 
