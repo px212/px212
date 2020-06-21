@@ -9,7 +9,8 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 
 
-## NEWS (from earliest to latest)
+## NEWS 
+**(from earliest to latest)**
 
 - Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)) that, in collaboration with Drs. [Lin Wang](http://www.escience.cn/people/wangl/index.html) and [Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) (all at IAP), we discover that in addition to the subtropical jet waveguide, the summertime polar front jet over the Eurasia can also serve as an atmospheric waveguide to trap the Rossby wave activiteis when taking into account the background stratification effect. Hence, we propose a new atmospherc teleconnetion, named as the British-Baikal Corridor (BBC) pattern, to refer the dominant waveguide pattern trapped along the summertime polar front jet. Since it is found that the abnormal behavior of the BBC pattern will induce signifcant climate and weather anomalies over the Europe, Central Siberia and Northeast Asia, this finding serves as a stimulus for future studies to unveil regional extreme events and climate prediction uncertanties in the middle latitudes over Eurasia.
 
@@ -27,7 +28,7 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 
 
-## PUBLICATIONS
+## **PUBLICATIONS
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
