@@ -13,7 +13,9 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 - Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)) that, in collaboration with Drs. [Lin Wang](http://www.escience.cn/people/wangl/index.html) and [Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) (all at IAP), we discover that in addition to the subtropical jet waveguide, the summertime polar front jet over the Eurasia can also serve as an atmospheric waveguide to trap the Rossby wave activiteis when taking into account the background stratification effect. Hence, we propose a new atmospherc teleconnetion, named as the British-Baikal Corridor (BBC) pattern, to refer the dominant waveguide pattern trapped along the summertime polar front jet. Since it is found that the abnormal behavior of the BBC pattern will induce signifcant climate and weather anomalies over the Europe, Central Siberia and Northeast Asia, this finding serves as a stimulus for future studies to unveil regional extreme events and climate prediction uncertanties in the middle latitudes over Eurasia.
 
+
 - Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0458.1)) that, in collaboration with Drs. Lin Wang (IAP), Wen Chen (IAP), [Guosen Chen](http://klme.nuist.edu.cn/Teacher.aspx?T=003024) (NUIST) and [In-Sik Kang](https://scholar.google.com/citations?user=POeUJi8AAAAJ&hl=th) (SIO), we discover the dominant summertime teleconnection pattern in the high latitudes over Eurasia, which is called [the British-Baikal Corridor (BBC) pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1), is primarily controlled by the nonlinear dynamics of wave-wave interactions. This nonlinear nature poses a tough challenge for current state-of-the-art climate models to predicit the regional climate over the Eurasia in the summertime.  
+
 
 - Please check out our new paper on ASL ([link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964)) that, in collaboration with Drs. Lin Wang, [Yuyun Liu](https://www.researchgate.net/profile/Yuyun_Liu?_iepl%5BgeneralViewId%5D=39dRhLBYt1NpBIuhsGxY8TGQboOJbHwqMbRt&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=09FrpQ7ROVpfA1FxYO2HNYKpDySsJ7R6kldC&_iepl%5BsearchType%5D=researcher&_iepl%5Bdata%5D%5BcountMoreThan20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=AC%3A7150520&_iepl%5BinteractionType%5D=profileView), Wen Chen and [Ping Huang](http://www.escience.cn/people/huangping/index.html) (all at IAP), we find that the June in 2019 is the hottest June for Central Europe on record, and the abnormal behavior of the BBC pattern is primarily responsble for this extreme heat wave event. Therefore, this result further emphasizes the importance of BBC pattern in regional climate and weather event in summer over Eurasia.
 
@@ -29,19 +31,27 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
+
 - **Xu, P.**, L. Wang, W. Chen, G. Chen, and I-S Kang, 2020: [Intraseasonal variations of the British-Baikal Corridor pattern](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0458.1). *J. Climate*, **33**, 2183-2200.
+
 
 - **Xu, P.**, L. Wang, and W. Chen, 2019: [The British–Baikal Corridor: A Teleconnection Pattern along the Summertime Polar Front Jet over Eurasia](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1). *J. Climate*, **32**, 877–896.
 
+
 - **Xu, P.**, L. Wang, W. Chen, J. Feng, and Y. Liu, 2019: [Structural Changes in the Pacific–Japan Pattern in the Late 1990s](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0123.1). *J. Climate*, **32**, 607–621.
+
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
+
 - Wang, L., L. Wang, Y. Liu, G. Wei, **P. Xu**, and W. Chen, 2019: [The Southwest China floos of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
+
 
 - **Xu, P.**, J. Feng, and W. Chen, 2016: [Asymmetric roles of ENSO in the link between the East Asian winter monsoon and the following summer monsoon (in Chinese)](http://www.dqkxqk.ac.cn/dqkx/dqkx/ch/reader/view_abstract.aspx?file_no=20160413). *Chinese Journal of Atmospheric Sciences*. **40**(4): 831-840.
 
+
 - Yu, G., W. Chen, **P. Xu**, Y. Ma, 2016: [Mechanistic Analysis of the Influence ofthe Latent Heat Associated with the Kuroshio Current on Chinese RainfallAnomalies in Spring (in Chinese)](http://www.dqkxqk.ac.cn/qhhj/qhhj/ch/reader/view_abstract.aspx?file_no=20150511&flag=1). *Climatic and Environmental Research*. **20**(5): 600-610.
+
 
 
 
