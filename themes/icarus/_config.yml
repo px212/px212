@@ -218,11 +218,11 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            最新动态: '/'
-            学术论文: '/papers'
-            国际会议报告: '/reports'
-            联系方式: '/about'
-            English HomePage: '/english'
+            最新动态: '/px212'
+            学术论文: '/px212/papers'
+            国际会议报告: '/px212/reports'
+            联系方式: '/px212/about'
+            English HomePage: '/px212/english'
     # Categories widget configurations
     # -
     #     # Where should the widget be placed, left sidebar or right sidebar
