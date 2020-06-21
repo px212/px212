@@ -28,7 +28,7 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 
 
-## **PUBLICATIONS
+## **PUBLICATIONS**
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
