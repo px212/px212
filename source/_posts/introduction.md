@@ -1,5 +1,5 @@
 ---
-title: 徐霈强 (Peiqiang Xu)
+title: 徐霈强 
 date: 2020-06-21 00:00:00
 ---
 [中国科学院大气物理研究所](http://www.iap.ac.cn/), 博士后
