@@ -15,4 +15,4 @@ date: 2020-07-10 18:09:14
 - 2019年，中国科学院大气物理研究所优秀博士论文
 
 **学术兼职**
-- 审稿人：Journal of Climate, Advances in Atmospheric Sciences
+- 期刊审稿人：Journal of Climate, Advances in Atmospheric Sciences
