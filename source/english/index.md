@@ -23,6 +23,13 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 
 
+## FUNDED PROJECTS
+
+- Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2022)
+- China Postdoctoral Science Foundation, China (2020-2022)
+
+
+
 ## EDITORIAL SERVICES
 
 Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
