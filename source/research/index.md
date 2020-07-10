@@ -15,4 +15,4 @@ date: 2020-07-10 18:09:14
 
 **学术兼职**
 
-- 审稿人：*Journal of Climate*, *Advances in Atmospheric Sciences*
+- 审稿人：Journal of Climate, Advances in Atmospheric Sciences
