@@ -13,9 +13,9 @@ date: 2020-06-21 18:52:29
 
 - **Xu, P.**, L. Wang, W. Chen, J. Feng, and Y. Liu, 2019: [Structural Changes in the Pacific–Japan Pattern in the Late 1990s](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0123.1). *J. Climate*, **32**, 607–621.
 
-- **Wang, L.**, P. Xu, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
+- Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
-- **Wang, L.**, L. Wang, Y. Liu, G. Wei, P. Xu, and W. Chen, 2019: [The Southwest China floods of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
+- Wang, L., L. Wang, Y. Liu, G. Wei, **P. Xu**, and W. Chen, 2019: [The Southwest China floods of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
 
 - **徐霈强**, 冯娟, 陈文. 2016. [ENSO冷暖位相影响东亚冬季风与东亚夏季风联系的非对称性](http://www.dqkxqk.ac.cn/dqkx/dqkx/ch/reader/view_abstract.aspx?doi=10.3878/j.issn.1006-9895.1509.15192)[J]. *大气科学*, **40**(4):831-840, doi:10.3878/j.issn.1006-9895.1509.15192.
 
