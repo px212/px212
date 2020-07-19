@@ -3,6 +3,8 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
+- **Xu, P.**, L. Wang, P. Huang, and W. Chen 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *submitted*.
+
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
 - **Xu, P.**, L. Wang, W. Chen, G. Chen, and I-S Kang, 2020: [Intraseasonal variations of the British-Baikal Corridor pattern](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0458.1). *J. Climate*, **33**, 2183-2200.
