@@ -79,9 +79,9 @@ navbar:
         # Tags: /tags
         # About: /about
         主页: /
+        科研经历: /research
         学术论文: /papers
         国际会议报告: /reports
-        科研经历: /research
         联系方式: /about
         English: /english
     # Links to be shown on the right of the navigation bar
@@ -220,9 +220,9 @@ widgets:
         # Names and URLs of the sites
         links:
             最新动态: '/px212'
+            科研经历: '/px212/research'
             学术论文: '/px212/papers'
             国际会议报告: '/px212/reports'
-            科研经历: '/px212/research'
             联系方式: '/px212/about'
             English HomePage: '/px212/english'
     # Categories widget configurations
