@@ -58,6 +58,7 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 
 ## CONFERENCES
+-**Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *submitted.
 
 - **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral)
 
