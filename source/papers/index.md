@@ -4,7 +4,7 @@ date: 2020-06-21 18:52:29
 ---
 - **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified Waveguide Teleconnections along the Polar Front Jet favor Temperature Extremes over Northern Eurasia. *Geophys. Res. Lett.*, in preparation.
 
-- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, minor revision.
+- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, accepted.
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
