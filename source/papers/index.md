@@ -4,7 +4,7 @@ date: 2020-06-21 18:52:29
 ---
 - **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified Waveguide Teleconnections along the Polar Front Jet favor Temperature Extremes over Northern Eurasia. *Geophys. Res. Lett.*, in preparation.
 
-- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, accepted.
+- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, in press.
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
@@ -18,7 +18,7 @@ date: 2020-06-21 18:52:29
 
 - Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *J. Climate*, revised.
 
-- Ma, T., W. Chen, H-F Graf, S. Ding, **P. Xu**, L. Song, X. Lan, 2020: [Different Impacts of the East Asian Winter Monsoon on the Surface Air Temperature in North America during ENSO and Neutral ENSO Years](https://journals.ametsoc.org/view/journals/clim/33/24/jcliD180760.xml). *J. Climate*, **33**, 10671-10690. 
+- Ma, T., W. Chen, H-F Graf, S. Ding, **P. Xu**, L. Song, and X. Lan, 2020: [Different Impacts of the East Asian Winter Monsoon on the Surface Air Temperature in North America during ENSO and Neutral ENSO Years](https://journals.ametsoc.org/view/journals/clim/33/24/jcliD180760.xml). *J. Climate*, **33**, 10671-10690. 
 
 - Wang, L., L. Wang, Y. Liu, G. Wei, **P. Xu**, and W. Chen, 2019: [The Southwest China floods of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
 
