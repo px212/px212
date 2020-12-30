@@ -12,7 +12,7 @@ date: 2020-06-21 18:52:29
 
 - **Xu, P.**, L. Wang, and W. Chen, 2019: [The British–Baikal Corridor: A Teleconnection Pattern along the Summertime Polar Front Jet over Eurasia](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1). *J. Climate*, **32**, 877–896.
 
-- **Xu, Peiqiang**, L. Wang, W. Chen, J. Feng, and Y. Liu, 2019: [Structural Changes in the Pacific–Japan Pattern in the Late 1990s](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0123.1). *J. Climate*, **32**, 607–621.
+- **Xu, P.**, L. Wang, W. Chen, J. Feng, and Y. Liu, 2019: [Structural Changes in the Pacific–Japan Pattern in the Late 1990s](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0123.1). *J. Climate*, **32**, 607–621.
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
