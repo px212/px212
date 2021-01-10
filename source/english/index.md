@@ -32,7 +32,7 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 
 
-## HORNORS
+## HONORS
 
 - Outstanding Doctoral Thesis Award, 2019
 - Outstanding Graduates, 2013
