@@ -26,9 +26,19 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 ## FUNDED PROJECTS
 
 - Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2021)
-- China Postdoctoral Science Foundation (CPSF), China (2020-2022)
-- International Academic Exchange project of CPSF, China (2020-2021)
+- China Postdoctoral Science Foundation, China (2020-2022)
+- International Academic Exchange project, China (2020-2021)
 - National Science Foundation for Young Scholars, NSFC, China (2021-2023)
+
+
+
+## HORNORS
+
+- Outstanding Doctoral Thesis Award, 2019
+- Outstanding Graduates, 2013
+- National Scholarship (top 0.3%), 2012
+- Special Prize Scholarship (top 0.5%), 2011
+- Special Prize Scholarship (top 0.5%), 2010
 
 
 
@@ -42,7 +52,7 @@ Peer reviewer for *Journal of Climate*, *Advances in Atmospheric Sciences*
 
 - **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified Waveguide Teleconnections along the Polar Front Jet favor Temperature Extremes over Northern Eurasia. *Geophys. Res. Lett.*, in preparation.
 
-- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, accepted.
+- **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, in press.
 
 - **Xu, P.**, L. Wang, Y. Liu, W. Chen, and P. Huang, 2020: [The record-breaking heat wave of June 2019 in Central Europe](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964). *Atmos. Sci. Let.*, 1-7.
 
