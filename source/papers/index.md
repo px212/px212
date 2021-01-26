@@ -2,7 +2,7 @@
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
-- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified Waveguide Teleconnections along the Polar Front Jet favor Temperature Extremes over Northern Eurasia. *Geophys. Res. Lett.*, in preparation.
+- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor temperature extremes over Northern Eurasia. *Geophys. Res. Lett.*, submitted.
 
 - **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019. *Atmos. Res.*, in press.
 
@@ -16,7 +16,7 @@ date: 2020-06-21 18:52:29
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
-- Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *J. Climate*, revised.
+- Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *J. Climate*, in press.
 
 - Ma, T., W. Chen, H-F Graf, S. Ding, **P. Xu**, L. Song, and X. Lan, 2020: [Different Impacts of the East Asian Winter Monsoon on the Surface Air Temperature in North America during ENSO and Neutral ENSO Years](https://journals.ametsoc.org/view/journals/clim/33/24/jcliD180760.xml). *J. Climate*, **33**, 10671-10690. 
 
