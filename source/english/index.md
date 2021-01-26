@@ -64,6 +64,8 @@ Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmosph
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
+- Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *J. Climate*, in press.
+
 - Wang, L., L. Wang, Y. Liu, G. Wei, **P. Xu**, and W. Chen, 2019: [The Southwest China floos of July 2018 and its causes](https://www.mdpi.com/2073-4433/10/5/247?type=check_update&versi1). *Atmosphere*.
 
 - **Xu, P.**, J. Feng, and W. Chen, 2016: [Asymmetric roles of ENSO in the link between the East Asian winter monsoon and the following summer monsoon (in Chinese)](http://www.dqkxqk.ac.cn/dqkx/dqkx/ch/reader/view_abstract.aspx?file_no=20160413). *Chinese Journal of Atmospheric Sciences*. **40**(4): 831-840.
