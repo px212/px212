@@ -17,5 +17,5 @@ date: 2020-06-21 00:00:00
 
 - 请关注我们在ASL上发表的[新文章](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964)。我们发现在2019年许多中欧国家经历了在观测资料史上最热的6月，[BBC型大气遥相关](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)的异常活动是引发此次极端热浪事件的主要原因。我们的工作进一步指出了BBC型遥相关在引发欧亚大陆地区极端天气事件中的重要作用。
 
-- 请关注我们在AR上发表的[新文章](https://www.sciencedirect.com/science/article/pii/S0169809520313831)。我们通过使用一个改进的[环流相似法](https://gmd.copernicus.org/articles/7/531/2014/)，定量地估计了大气动力过程和热动力过程在[2019年6月发生在中欧地区的极端高温事件](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964)中的作用。我们发现大气动力过程（即[BBC型大气遥相关](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)）是引发此次极端高温事件的主要原因（~65%），而热动力过程是引发此次极端高温事件的次要原因（~35%）。此外，我们发现气候变化使得近年来发生类似极端热浪事件的概率显著增加，热动力过程的变化（如大气温室气体浓度的增加、土地类型的变化等）是造成近年来类似极端高温事件概率增加的主要原因。
+- 请关注我们在AR上发表的[新文章](https://www.sciencedirect.com/science/article/pii/S0169809520313831)。我们通过使用一个改进的[环流相似法](https://gmd.copernicus.org/articles/7/531/2014/)，定量地估算了大气动力过程和热动力过程在[2019年6月发生在中欧地区的极端高温事件](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964)中的作用。我们发现大气动力过程（即[BBC型大气遥相关](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)）是引发此次极端高温事件的主要原因（~65%），而热动力过程是引发此次极端高温事件的次要原因（~35%）。此外，我们发现气候变化使得近年来发生类似极端热浪事件的概率显著增加，热动力过程的变化（如大气温室气体浓度的增加、土地类型的变化等）是造成近年来类似极端高温事件概率增加的主要原因。
 
