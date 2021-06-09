@@ -16,7 +16,7 @@ date: 2020-06-21 18:52:29
 
 - Wang, L., **P. Xu**, W. Chen, and Y. Liu, 2017: [Interdecadal Variations of the Silk Road Pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-17-0340.1). *J. Climate*, **30**, 9915–9932.
 
-- Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes, *J. Climate*, in press.
+- Dong Z., L. Wang, **P. Xu**, S. Pimonsree, A. Limsakul, and P. Singhruck, 2020: [Interdecadal variation of the wintertime precipitation in Southeast Asia and its possible causes](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-20-0480.1/JCLI-D-20-0480.1.xml), *J. Climate*, **34**(9):3503–3521.
 
 - Ma, T., W. Chen, H-F Graf, S. Ding, **P. Xu**, L. Song, and X. Lan, 2020: [Different Impacts of the East Asian Winter Monsoon on the Surface Air Temperature in North America during ENSO and Neutral ENSO Years](https://journals.ametsoc.org/view/journals/clim/33/24/jcliD180760.xml). *J. Climate*, **33**, 10671-10690. 
 
