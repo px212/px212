@@ -48,7 +48,7 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 ## EXPERIENCE
 
 - Jun 2019-Present, Postdoctor, IAP, China. (collaborator: Prof. Lin Wang, Prof. Ping Huang)
-- Nov 2019-Mar 2020, Visiting scholar, Department of Mathematics, University of Exeter (collaborator: Prof. Geoffrey Vallis, Dr. Ruth Geen)
+- Nov 2019-Mar 2020, Visiting scholar, Department of Mathematics, University of Exeter (collaborator: Prof. Geoffrey Vallis)
 
 
 
