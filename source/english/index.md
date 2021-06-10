@@ -13,6 +13,9 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 ## NEWS 
 **(from earliest to latest)**
 
+- After three months of planing and preparing, our climate group, named **Climate Friends**, has now finally established! **Climate Friends** is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Artic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating cliamte! **Climate Friends** has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
+
+
 - Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)) that, in collaboration with Drs. [Lin Wang](http://www.escience.cn/people/wangl/index.html) and [Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) (all at IAP), we discover that in addition to the subtropical jet waveguide, the summertime polar front jet over the Eurasia can also serve as an atmospheric waveguide to trap the Rossby wave activiteis when taking into account the background stratification effect. Hence, we propose a new atmospherc teleconnetion, named as the British-Baikal Corridor (BBC) pattern, to refer the dominant waveguide pattern trapped along the summertime polar front jet. Since it is found that the abnormal behavior of the BBC pattern will induce signifcant climate and weather anomalies over the Europe, Central Siberia and Northeast Asia, this finding serves as a stimulus for future studies to unveil regional extreme events and climate prediction uncertanties in the middle latitudes over Eurasia.
 
 
