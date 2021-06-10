@@ -45,6 +45,13 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 
 
+## EXPERIENCE
+
+- Jun 2019-Present, Postdoctor, IAP, China. (Collaborator: Prof. Lin Wang, Prof. Ping Huang)
+- Nov 2019-Mar 2020, Visiting Scholar, Department of Mathematics, University of Exeter (Collaborator: Prof. Geoffrey Vallis, Dr. Ruth Geen)
+
+
+
 ## EDITORIAL SERVICES
 
 Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*
