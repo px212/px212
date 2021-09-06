@@ -65,9 +65,9 @@ Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmosph
 
 - **Xu, P.**, L. Wang, and M. Jie, 2021: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern. *J. Climate*, submitted.
 
-- Wang, L., **P. Xu**, and J. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon, in *Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond*. Edited by J. Chowdary, A. Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0.
+- Wang, L., **P. Xu**, and J. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon, in *[Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond](https://www.elsevier.com/books/indian-summer-monsoon-variability/chowdary/978-0-12-822402-1)*. Edited by J. Chowdary, A. Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0.
 
-- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified Waveguide Teleconnections along the Polar Front Jet favor Temperature Extremes over Northern Eurasia. *Geophys. Res. Lett.*, **48**, e2021GL093735. 
+- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: [Amplified waveguide teleconnections along the polar front jet favor temperature extremes over Northern Eurasia](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093735). *Geophys. Res. Lett.*, **48**, e2021GL093735.
 
 - **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: [Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019](https://www.sciencedirect.com/science/article/pii/S0169809520313831). *Atmos. Res.*, **252**, 105446. 
 
