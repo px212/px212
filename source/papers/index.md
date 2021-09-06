@@ -2,7 +2,14 @@
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
-- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor temperature extremes over Northern Eurasia. *Geophys. Res. Lett.*, in press.
+
+- **Xu, P.**, L. Wang, and W. Chen, 2021: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern. *J. Climate*, submitted.
+
+- **Xu, P.**, L. Wang, and M. Jie, 2021: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern. *J. Climate*, submitted.
+
+- Wang, L., **P. Xu**, and J. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon, in *Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond*. Edited by Jasti S. Chowdary, Anant Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0.
+
+- **Xu, P.**, L. Wang, G. Vallis, R. Geen, J. Screen, P. Wu, S. Ding, P. Huang and W. Chen, 2021: Amplified waveguide teleconnections along the polar front jet favor temperature extremes over Northern Eurasia. *Geophys. Res. Lett.*, ***48***, e2021GL093735. 
 
 - **Xu, P.**, L. Wang, P. Huang, and W. Chen, 2020: [Disentangling dynamical and thermodynamical contributions to the record-breaking heatwave over central Europe in June 2019](https://www.sciencedirect.com/science/article/pii/S0169809520313831). *Atmos. Res.*, **252**, 105446. 
 
