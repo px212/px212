@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Wang, and W. Chen, 2021: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern. *J. Climate*, in revision.
+- **Xu, P.**, L. Wang, and W. Chen, 2021: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern. *J. Climate*, under review.
 
 - **Xu, P.**, L. Wang, and J. Ming, 2021: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern. *J. Climate*, in press.
 
