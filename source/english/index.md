@@ -32,10 +32,12 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 ## FUNDED PROJECTS
 
-- Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2021)
-- China Postdoctoral Science Foundation, China (2020-2022)
-- International Academic Exchange project, China (2020-2021)
 - National Science Foundation for Young Scholars, NSFC, China (2021-2023)
+- Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2021)
+- Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
+- General Programn of China Postdoctoral Science Foundation, China (2020-2022)
+- International Academic Exchange project, China (2020-2021)
+
 
 
 
