@@ -5,7 +5,7 @@ date: 2020-06-21 18:52:29
 
 - **Xu, P.**, L. Wang, and W. Chen, 2021: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern. *J. Climate*, under review.
 
-- **Xu, P.**, L. Wang, and J. Ming, 2021: Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern. *J. Climate*, in press.
+- **Xu, P.**, L. Wang, and J. Ming, 2021: [Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern](https://journals.ametsoc.org/view/journals/clim/35/8/JCLI-D-21-0657.1.xml). *J. Climate*, **35**, 2603-2616.
 
 - Wang, L., **P. Xu**, and J. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon, in *[Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond](https://www.elsevier.com/books/indian-summer-monsoon-variability/chowdary/978-0-12-822402-1)*. Edited by J. Chowdary, A. Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0.
 
