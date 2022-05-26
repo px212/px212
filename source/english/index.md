@@ -66,7 +66,7 @@ Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmosph
 
 ## PUBLICATIONS
 
-- **Xu, P.**, L. Wang, and W. Chen, 2021: The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern[https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0705.1/JCLI-D-21-0705.1.xml]. *J. Climate*, in press.
+- **Xu, P.**, L. Wang, and W. Chen, 2021: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0705.1/JCLI-D-21-0705.1.xml). *J. Climate*, in press.
 
 - **Xu, P.**, L. Wang, and J. Ming, 2021: [Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern](https://journals.ametsoc.org/view/journals/clim/35/8/JCLI-D-21-0657.1.xml). *J. Climate*, **35**, 2603-2616.
 
