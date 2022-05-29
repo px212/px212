@@ -224,6 +224,7 @@ widgets:
             科研经历: '/px212/research'
             学术论文: '/px212/papers'
             国际会议报告: '/px212/reports'
+            博客: /archives
             联系方式: '/px212/about'
             English HomePage: '/px212/english'
     # Categories widget configurations
