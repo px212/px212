@@ -21,4 +21,4 @@ date: 2020-07-10 18:09:14
 - 2011和2010年，特等奖学金（top 0.5%）
 
 **学术兼职**
-- 期刊审稿人：*Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*, *Sustainability*
+- 期刊审稿人：*Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*, *Sustainability*, *Journal of Marine Science and Engineering*
