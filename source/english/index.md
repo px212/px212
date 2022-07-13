@@ -60,11 +60,15 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 ## EDITORIAL SERVICES
 
-Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*, *Sustainability*
+Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*, *Sustainability*, *Journal of Marine Science and Engineering*.
 
 
 
 ## PUBLICATIONS
+
+- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2022: An intraseasonal Stratosphere-Troposphere Ocillation. *J. Climate*, in revision.
+
+- Dong, Z., L. Wang, **P. Xu**, et al., 2022: Unprecedented heatwave over western North America in June-July 2021 is projected to be common with higher risks in a warmer world, submitted.
 
 - **Xu, P.**, L. Wang, and W. Chen, 2021: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0705.1/JCLI-D-21-0705.1.xml). *J. Climate*, in press.
 
