@@ -60,7 +60,7 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 ## EDITORIAL SERVICES
 
-Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Advances in Atmospheric Sciences*, *Sustainability*, *Journal of Marine Science and Engineering*.
+Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Atmosphere*, *Sustainability*, *Journal of Marine Science and Engineering*
 
 
 
