@@ -3,7 +3,7 @@ title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
 
-Welcome! Thanks for visiting my homepage. I am an early-career climate researcher (postdoc) in [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP). I am working with [Prof. Lin Wang](https://sforest81.github.io/cn/), [Prof. Ping Huang](https://www.researchgate.net/profile/Ping_Huang17) and [Prof. Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) on the [National Key Research and Development Program of China](http://cmsr.ac.cn/sites/default/files/973/index.html), which aims to improve our understanding about the East Asian monsoon dynamics. Having recieved my PhD in IAP in July 2019, I am currently reseaching the large-scale atmospheric dynamics in the middle latitudes and its implication for regional climate. By using the reananlysis data, idealized models and output from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation in the middle latitudes, and how this may change in the future.  You are warmly weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. In addition, I am also very fond of doing geophysical fluid experiments. You can find the details of our lab [here](http://www.njugfd.org/home.html).
+Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP). I am working with [Prof. Lin Wang](https://sforest81.github.io/cn/), [Prof. Ping Huang](https://www.researchgate.net/profile/Ping_Huang17) and [Prof. Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) on the [National Key Research and Development Program of China](http://cmsr.ac.cn/sites/default/files/973/index.html), which aims to improve our understanding about the East Asian monsoon dynamics. Having recieved my PhD in IAP in July 2019, I am currently reseaching the large-scale atmospheric dynamics in the middle latitudes and its implication for regional climate. By using the reananlysis data, idealized models and output from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation in the middle latitudes, and how this may change in the future.  You are warmly weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. In addition, I am also very fond of doing geophysical fluid experiments. You can find the details of our lab [here](http://www.njugfd.org/home.html).
 
 **Email:** peiqiang@mail.iap.ac.cn
 
@@ -52,8 +52,8 @@ Welcome! Thanks for visiting my homepage. I am an early-career climate researche
 
 
 ## EXPERIENCE
-
-- Jun 2019-present, postdoctor, IAP, China. (collaborators: Prof. Lin Wang, Prof. Ping Huang)
+- Nov 2022-present, Associate Professor, IAP, China
+- Jun 2019-Nov 2022, postdoctor, IAP, China. (collaborators: Prof. Lin Wang, Prof. Ping Huang)
 - Nov 2019-Mar 2020, visiting scholar, Department of Mathematics, University of Exeter (collaborator: Prof. Geoffrey Vallis)
 
 
