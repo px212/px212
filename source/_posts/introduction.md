@@ -2,10 +2,10 @@
 title: 徐霈强 
 date: 2020-06-21 00:00:00
 ---
-[中国科学院大气物理研究所](http://www.iap.ac.cn/), 博士后
-研究兴趣：气候动力学, 东亚季风
+[中国科学院大气物理研究所](http://www.iap.ac.cn/), 副研究员，理学博士
+研究兴趣：大气动力学, 季风动力学，极端气候事件
 
-我是一名从事大气科学研究的青年科研工作者。我的研究旨在加深我们对夏季大气长波的理解，尤其是与之相关的极端天气和气候事件。我已于2019年6月在中国科学院大气物理研究所获得气象学博士学位，现在大气物理所季风系统研究中心的[王林研究员](https://sforest81.github.io/cn/)，[黄平研究员](https://www.researchgate.net/profile/Ping_Huang17)和[陈文研究员](https://www.researchgate.net/profile/Wen_Chen13?_sg=cFaR0W8yY7lrTS7a5rnlkcFtZBlpZLB8qYm-rju3eskwUDtUqxeAInL_aRs13KKyjYgNtr8uvMAjW8iZDsFFVQ)课题组内从事博士后研究工作。此外，我也是[南京大学地球物理流体力学学生实验室](http://www.njugfd.org/)的一名成员。
+我是一名从事大气科学研究的青年科研工作者。我的研究旨在加深我们对夏季长波的理解，尤其是与之相关的极端天气和气候事件。我在中国科学院大气物理研究所获得博士学位（2019年），现在大气物理研究所季风系统研究中心从事研究工作。此外，我也是[南京大学地球物理流体力学学生实验室](http://www.njugfd.org/)的一名成员。
 
 ## 最新动态
 
