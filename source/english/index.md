@@ -11,6 +11,9 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Instit
 
 ## NEWS 
 
+-【2022.11】Peiqiang is promoted as an Associate Professor in IAP, CAS.
+
+
 -【2021.6】After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
 
 
@@ -66,13 +69,13 @@ Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmosph
 
 ## PUBLICATIONS
 
-- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2022: An intraseasonal Stratosphere-Troposphere Ocillation. *J. Climate*, in revision.
+- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2022: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0238.1/JCLI-D-22-0238.1.xml). *J. Climate*, online.
 
-- Dong, Z., L. Wang, **P. Xu**, et al., 2022: Unprecedented heatwave over western North America in June-July 2021 is projected to be common with higher risks in a warmer world, submitted.
+- Dong, Z., L. Wang, **P. Xu**, et al., 2022: [Heatwaves Similar to the Unprecedented One in Summer 2021 Over Western North America Are Projected to Become More Frequent in a Warmer World](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
 
-- **Xu, P.**, L. Wang, and W. Chen, 2021: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-21-0705.1/JCLI-D-21-0705.1.xml). *J. Climate*, in press.
+- **Xu, P.**, L. Wang, and W. Chen, 2022: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/35/17/JCLI-D-21-0705.1.xml?rskey=twbrno&result=1). *J. Climate*, **35**, 5787–5804.
 
-- **Xu, P.**, L. Wang, and J. Ming, 2021: [Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern](https://journals.ametsoc.org/view/journals/clim/35/8/JCLI-D-21-0657.1.xml). *J. Climate*, **35**, 2603-2616.
+- **Xu, P.**, L. Wang, and J. Ming, 2022: [Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern](https://journals.ametsoc.org/view/journals/clim/35/8/JCLI-D-21-0657.1.xml?rskey=X6U2T8&result=2). *J. Climate*, **35**, 2603-2616.
 
 - Wang, L., **P. Xu**, and J. Chowdary, 2021: Teleconnection along the Asian jet stream and its association with the Asian summer monsoon, in *[Indian Summer Monsoon Variability: El Niño-Teleconnections and Beyond](https://www.elsevier.com/books/indian-summer-monsoon-variability/chowdary/978-0-12-822402-1)*. Edited by J. Chowdary, A. Parekh, and C. Gnanaseelan, 287-298, doi:10.1016/B978-0-12-822402-1.00009-0.
 
