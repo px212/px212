@@ -3,9 +3,9 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2022: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/aop/JCLI-D-22-0238.1/JCLI-D-22-0238.1.xml). *J. Climate*, online.
+- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
-- Dong, Z., L. Wang, **P. Xu**, et al., 2022: [Heatwaves Similar to the Unprecedented One in Summer 2021 Over Western North America Are Projected to Become More Frequent in a Warmer World](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
+- Dong, Z., L. Wang, **P. Xu**, et al., 2023: [Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
 
 - **Xu, P.**, L. Wang, and W. Chen, 2022: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/35/17/JCLI-D-21-0705.1.xml?rskey=twbrno&result=1). *J. Climate*, **35**, 5787–5804.
 
