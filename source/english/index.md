@@ -50,7 +50,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 ## EDITORIAL SERVICES
 
-Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Atmosphere*, *Sustainability*, *water*, *Journal of Marine Science and Engineering*
+Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Atmosphere*, *Water*, *Sustainability*, *Journal of Marine Science and Engineering*
 
 
 
