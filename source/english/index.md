@@ -3,9 +3,16 @@ title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
 
-Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP). Having recieved my PhD in IAP in July 2019, I am currently reseaching the large-scale atmospheric dynamics in the middle latitudes and its implication for regional climate. By using the reananlysis data, idealized models and output from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation in the middle latitudes, and how this may change in the future.  You are warmly weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. In addition, I am also very fond of doing geophysical fluid experiments. You can find the details of our lab [here](http://www.njugfd.org/home.html).
+Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/), Chinese Academy of Sciences (IAP/CAS). By using observations, idealized models and outputs from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how this may change in the future. You are warmly weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. In addition, I am also very fond of doing geophysical fluid experiments. You can find the details of our lab [here](http://www.njugfd.org/home.html).
 
 **Email:** peiqiang@mail.iap.ac.cn
+
+
+
+## EXPERIENCE
+- Nov 2022-present, Associate Professor, IAP, China
+- Nov 2019-Mar 2020, visiting scholar, Department of Mathematics, University of Exeter (collaborator: Prof. Geoffrey Vallis)
+- Jun 2019-Nov 2022, postdoctor, IAP, China
 
 
 
@@ -14,22 +21,10 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Instit
 -【2022.11】Peiqiang is promoted as an Associate Professor in IAP, CAS.
 
 
--【2021.6】After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
+-【2021.9】After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
 
 
 -【2021.6】Please check out our new paper on GRL ([link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093735)) that, in collaboration with Drs. [Lin Wang](https://sforest81.github.io/cn/) (IAP), [Geoffrey Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/skeptic.html) (UoE), [Ruth Geen](https://emps.exeter.ac.uk/mathematics/staff/rg419) (UoE), [James Screen](https://emps.exeter.ac.uk/mathematics/staff/js546) (UoE), [Peili Wu](https://www.metoffice.gov.uk/research/people/peili-wu) (Met Office), [Shuoyi Ding](https://atmsci.fudan.edu.cn/5e/8e/c15340a155278/page.htm) (Fudan), [Ping Huang](https://www.researchgate.net/profile/Ping-Huang-43) (IAP) and [Wen Chen](https://www.researchgate.net/profile/Wen-Chen-2) (IAP), we found a close linkage between the waveguide teleconnections along the polar front jet and the temperature extremes over northern Eurasia: teleconnection activity tended to be greater than normal during those summer months that had extreme temperatures. In contrast, teleconnection activity was commonly less during months with near-average temperatures. In addition, we found the current state-of-the-art climate models can reasonably capture the above relation. These findings demonstrate the important role of waveguide teleconnections along the polar front jet in generating regional temperature extremes over northern Eurasia. 
-
-
--【2021.1】Please check out our new paper on AR ([link](https://www.sciencedirect.com/science/article/pii/S0169809520313831)) that, in collaboration with Drs. Lin Wang, Ping Huang, and Wen Chen (all at IAP), we quantified the role of atmospheric dynamical processes and thermodynamical processes in the [unprecedented extreme heatwave event over Central Europe in June 2019](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964) by using a updated [analogous flow method](https://gmd.copernicus.org/articles/7/531/2014/). We found that atmospheric dynamical processes (i.e., the [BBC pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)) played a leading role (approximate 65%) in anchoring the heatwave, while the thermodynamical processes only played a secondary role (approximate 35%). In addition, climate change increased the occurrence probability of similar heatwaves dramatically during the last decades. Thermodynamical changes (such as the increased concentration of greenhouse gases or changes in land state) are the primarily responsible for such probability increase.
-
-
--【2020.3】Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-19-0458.1)) that, in collaboration with Drs. Lin Wang (IAP), Wen Chen (IAP), [Guosen Chen](http://klme.nuist.edu.cn/Teacher.aspx?T=003024) (NUIST) and [In-Sik Kang](https://scholar.google.com/citations?user=POeUJi8AAAAJ&hl=th) (SIO), we discover the dominant summertime teleconnection pattern in the high latitudes over Eurasia, which is called [the British-Baikal Corridor (BBC) pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1), is primarily controlled by the nonlinear dynamics of wave-wave interactions. This nonlinear nature poses a tough challenge for current state-of-the-art climate models to predicit the regional climate over the Eurasia in the summertime. 
-
-
--【2020.2】Please check out our new paper on ASL ([link](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/asl.964)) that, in collaboration with Drs. Lin Wang, [Yuyun Liu](https://www.researchgate.net/profile/Yuyun_Liu?_iepl%5BgeneralViewId%5D=39dRhLBYt1NpBIuhsGxY8TGQboOJbHwqMbRt&_iepl%5Bcontexts%5D%5B0%5D=searchReact&_iepl%5BviewId%5D=09FrpQ7ROVpfA1FxYO2HNYKpDySsJ7R6kldC&_iepl%5BsearchType%5D=researcher&_iepl%5Bdata%5D%5BcountMoreThan20%5D=1&_iepl%5Bdata%5D%5BinteractedWithPosition1%5D=1&_iepl%5Bdata%5D%5BwithoutEnrichment%5D=1&_iepl%5Bposition%5D=1&_iepl%5BrgKey%5D=AC%3A7150520&_iepl%5BinteractionType%5D=profileView), Wen Chen and [Ping Huang](http://www.escience.cn/people/huangping/index.html) (all at IAP), we find that the June in 2019 is the hottest June for Central Europe on record, and the abnormal behavior of the [BBC pattern](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1) is primarily responsble for this extreme heat wave event. Therefore, this result further emphasizes the importance of BBC pattern in regional climate and weather event in summer over Eurasia.
-
-
--【2019.2】Please check out our new paper on JCLI ([link](https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-18-0343.1)) that, in collaboration with Drs. [Lin Wang](http://www.escience.cn/people/wangl/index.html) and [Wen Chen](https://www.researchgate.net/profile/Wen_Chen13) (all at IAP), we discover that in addition to the subtropical jet waveguide, the summertime polar front jet over the Eurasia can also serve as an atmospheric waveguide to trap the Rossby wave activiteis when taking into account the background stratification effect. Hence, we propose a new atmospherc teleconnetion, named as the British-Baikal Corridor (BBC) pattern, to refer the dominant waveguide pattern trapped along the summertime polar front jet. Since it is found that the abnormal behavior of the BBC pattern will induce signifcant climate and weather anomalies over the Europe, Central Siberia and Northeast Asia, this finding serves as a stimulus for future studies to unveil regional extreme events and climate prediction uncertanties in the middle latitudes over Eurasia.
 
 
 
@@ -43,7 +38,6 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Instit
 
 
 
-
 ## HONORS
 
 - Outstanding Doctoral Thesis Award, 2019
@@ -51,13 +45,6 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in [Instit
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011
 - Special Prize Scholarship (top 0.5%), 2010
-
-
-
-## EXPERIENCE
-- Nov 2022-present, Associate Professor, IAP, China
-- Jun 2019-Nov 2022, postdoctor, IAP, China. (collaborators: Prof. Lin Wang, Prof. Ping Huang)
-- Nov 2019-Mar 2020, visiting scholar, Department of Mathematics, University of Exeter (collaborator: Prof. Geoffrey Vallis)
 
 
 
