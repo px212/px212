@@ -10,9 +10,9 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## EXPERIENCE
-- Nov 2022-present, Associate Professor, IAP, CAS, China
+- Nov 2022-present, Associate Professor, IAP/CAS, China
 - Nov 2019-Mar 2020, visiting scholar, Department of Mathematics, University of Exeter, UK (collaborator: Prof. Geoffrey Vallis)
-- Jun 2019-Nov 2022, postdoctor, IAP, CAS, China
+- Jun 2019-Nov 2022, postdoctor, IAP/CAS, China
 
 
 
