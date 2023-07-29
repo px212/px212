@@ -38,3 +38,5 @@ jobs:
         token: ${{ secrets.GH_TOKEN }}
         branch: gh-pages
         folder: public
+        git-config-name: px212
+        git-config-email: peiqiang@mail.iap.ac.cn
