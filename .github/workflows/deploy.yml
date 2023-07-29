@@ -33,8 +33,8 @@ jobs:
 
     # Deploy hexo blog website.
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-        ACCESS_TOKEN: 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
-        BRANCH: gh-pages
-        FOLDER: public
+        token: {{ secrets.GH_TOKEN }}
+        branch: gh-pages
+        folder: public
