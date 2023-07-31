@@ -226,7 +226,7 @@ widgets:
             国际会议报告: '/px212/reports'
             博客: /archives
             联系方式: '/px212/about'
-            联系方式: '/px212/group'
+            课题组: '/px212/group'
             English HomePage: '/px212/english'
     # Categories widget configurations
     # -
