@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- 王林，徐霈强，*2023*：[夏季急流遥相关的研究进展和展望]. 大气科学，submitted.
+- 王林，**徐霈强**，*2023*：夏季急流遥相关的研究进展和展望. 大气科学，submitted.
 
 - Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
