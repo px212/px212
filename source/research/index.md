@@ -23,4 +23,4 @@ date: 2020-07-10 18:09:14
 
 **学术兼职**
 - 客座编辑：*Atmosphere*
-- 审稿人：*npj Climate and Atmospheric Science*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*等十余种期刊
+- 审稿人：*npj Climate and Atmospheric Science*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications* 等十余种期刊
