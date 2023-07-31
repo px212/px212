@@ -9,8 +9,8 @@ date: 2020-07-10 18:09:14
 - 2019年11月 — 2020年3月，访问学者，Department of Mathematics, University of Exeter (Prof. Geoffrey Vallis)
 
 **承担课题**
-- 2020年 — 2021年，中国科学院特别研究助理资助项目，主持
 - 2021年 — 2023年，国家自然科学基金青年科学基金项目，主持
+- 2020年 — 2021年，中国科学院特别研究助理资助项目，主持
 - 2021年 — 2023年，中国博士后科学基金特别资助项目（站中），主持
 - 2020年 — 2022年，中国博士后科学基金面上项目，主持
 - 2020年 — 2021年，中国博士后科学基金学术交流项目，主持
@@ -22,4 +22,5 @@ date: 2020-07-10 18:09:14
 - 2011和2010年，特等奖学金（top 0.5%）
 
 **学术兼职**
-- 期刊审稿人：*Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Atmosphere*, *Sustainability*, *Journal of Marine Science and Engineering*
+- *Atmosphere*期刊客座编辑
+- 期刊审稿人：*npj Climate and Atmospheric Science*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*等十余种期刊
