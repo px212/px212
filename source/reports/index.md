@@ -3,6 +3,10 @@ title: 国际会议报告
 date: 2020-06-21 18:52:46
 ---
 
+- **Xu, P.**, Understanding and predicting temperature extremes from intraseasonal to decadal timescales: The role of waveguide teleconnections. *The 28th IUGG General Assembly*,12-17 July 2023, Berlin, Germany. (oral)
+
+- **Xu, P.**, Waveguide teleconnections and summer climate over Northern Eurasia. *1st International Workshop on the A3 Foresight Program*, 18-19 Apr 2023, Busan, Korea. (oral)
+
 - **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral)
 
 - **Xu, P.**, L. Wang and W. Chen: The British–Baikal Corridor: a teleconnection pattern along the summertime polar front jet over Eurasia. *The 22th Conference on Atmosphere and Oceanic Fluid Dynamics (AOFD)*, 24-28 June 2019, Portland, US. (poster)
