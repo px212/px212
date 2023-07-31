@@ -92,7 +92,7 @@ Peer reviewer for *npj Climate and Atmospheric Science*, *Journal of Climate*, *
 
 ## CONFERENCES
 
-- **Xu, P.**, Understanding and predicting temperature extremes from intraseasonal to decadal timescales: The role of waveguide teleconnections. *The 28th IUGG General Assembly*,12-17 July 2023, Berlin, Germany. (oral)
+- **Xu, P.**, Understanding and predicting temperature extremes from intraseasonal to decadal timescales: The role of waveguide teleconnections. *The 28th IUGG General Assembly*, 12-17 July 2023, Berlin, Germany. (oral)
 
 - **Xu, P.**, Waveguide teleconnections and summer climate over Northern Eurasia. *1st International Workshop on the A3 Foresight Program*, 18-19 Apr 2023, Busan, Korea. (oral)
 
