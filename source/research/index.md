@@ -22,5 +22,5 @@ date: 2020-07-10 18:09:14
 - 2011和2010年，特等奖学金（top 0.5%）
 
 **学术兼职**
-- *Atmosphere*期刊客座编辑
-- 期刊审稿人：*npj Climate and Atmospheric Science*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*等十余种期刊
+- 客座编辑：*Atmosphere*
+- 审稿人：*npj Climate and Atmospheric Science*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*等十余种期刊
