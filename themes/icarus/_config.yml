@@ -82,9 +82,9 @@ navbar:
         科研经历: /research
         学术论文: /papers
         国际会议报告: /reports
+        课题组: /group
         博客: /archives
         联系方式: /about
-        课题组: /group
         English: /english
     # Links to be shown on the right of the navigation bar
     links:
@@ -225,9 +225,9 @@ widgets:
             科研经历: '/px212/research'
             学术论文: '/px212/papers'
             国际会议报告: '/px212/reports'
+            课题组: '/px212/group'
             博客: '/px212/archives'
             联系方式: '/px212/about'
-            课题组: '/px212/group'
             English HomePage: '/px212/english'
     # Categories widget configurations
     # -
