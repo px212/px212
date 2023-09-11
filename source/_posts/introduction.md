@@ -15,7 +15,7 @@ date: 2020-06-21 00:00:00
 
 -【2023.7】欢迎姚晓娜同学加入课题组！
 
--【2023.6】徐霈强担任Atmosphere杂志特刊"[Arctic Atmosphere-Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
+-【2023.6】徐霈强担任Atmosphere特刊"[Arctic Atmosphere-Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
 
 -【2022.6】徐霈强晋升为副研究员。
 
