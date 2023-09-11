@@ -9,16 +9,16 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
--【2023.9】徐霈强获得[IOP优秀审稿人认证](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
+- 2023.09: 徐霈强获得[IOP优秀审稿人认证](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
 
--【2023.9】徐霈强获得国家自然科学基金面上项目资助
+- 2023.09：徐霈强获得国家自然科学基金面上项目资助
 
--【2023.7】欢迎姚晓娜同学加入课题组！
+- 2023.07：欢迎姚晓娜同学加入课题组！
 
--【2023.6】徐霈强担任Atmosphere特刊"[Arctic Atmosphere-Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
+- 2023.06：徐霈强担任Atmosphere特刊"[Arctic Atmosphere-Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
 
--【2022.6】徐霈强晋升为副研究员。
+- 2022.11：徐霈强晋升为副研究员。
 
--【2021.6】请关注我们新创立的科研社团Climate Friends！Climate Friends是由中国科学院大气物理研究所的青年研究人员创立的科研社团，旨在为气候领域的青年学者提供一个自由讨论的交流平台。自然赋予了气候的美妙和神奇，从混沌的海洋中尺度涡到壮阔的平流层准两年振荡，从激烈的热带气旋到令人担忧的北极海冰融化，从寒冷的末次冰盛期到愈发炎热的未来，我们关心所有与气候有关的科学问题。Climate Friends每周都有例行的学术交流活动，如需更多有关Climate Friends的信息，欢迎邮件联系！
+- 2021.06：请关注我们新创立的科研社团Climate Friends！Climate Friends是由中国科学院大气物理研究所的青年研究人员创立的科研社团，旨在为气候领域的青年学者提供一个自由讨论的交流平台。自然赋予了气候的美妙和神奇，从混沌的海洋中尺度涡到壮阔的平流层准两年振荡，从激烈的热带气旋到令人担忧的北极海冰融化，从寒冷的末次冰盛期到愈发炎热的未来，我们关心所有与气候有关的科学问题。Climate Friends每周都有例行的学术交流活动，如需更多有关Climate Friends的信息，欢迎邮件联系！
 
 
