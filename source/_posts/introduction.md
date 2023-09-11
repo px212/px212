@@ -9,7 +9,7 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
-- 2023.09：徐霈强获得[IOP优秀审稿人认证](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
+- 2023.09：徐霈强入选[IOP优秀审稿人](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
 
 - 2023.09：徐霈强获得国家自然科学基金面上项目资助
 
