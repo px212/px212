@@ -16,6 +16,7 @@ date: 2020-07-10 18:09:14
 - 2020.01 — 2021.12，中国博士后科学基金学术交流项目，主持
 
 **获奖情况**
+- 2023，IOP优秀审稿人
 - 2020，中国科学院特别研究助理资助项目
 - 2019，中国科学院大气物理研究所优秀博士论文
 - 2013，优秀毕业生
@@ -24,4 +25,4 @@ date: 2020-07-10 18:09:14
 
 **学术兼职**
 - 客座编辑：*Atmosphere*
-- 审稿人：*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications* 等十余种期刊
+- 审稿人：*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* 等十余种期刊
