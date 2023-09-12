@@ -17,19 +17,17 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## NEWS 
-
--【2022.11】Peiqiang is promoted as an Associate Professor in IAP, CAS.
-
-
--【2021.3】After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
-
-
--【2021.6】Please check out our new paper on GRL ([link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021GL093735)) that, in collaboration with Drs. [Lin Wang](https://sforest81.github.io/cn/) (IAP), [Geoffrey Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/skeptic.html) (UoE), [Ruth Geen](https://emps.exeter.ac.uk/mathematics/staff/rg419) (UoE), [James Screen](https://emps.exeter.ac.uk/mathematics/staff/js546) (UoE), [Peili Wu](https://www.metoffice.gov.uk/research/people/peili-wu) (Met Office), [Shuoyi Ding](https://atmsci.fudan.edu.cn/5e/8e/c15340a155278/page.htm) (Fudan), [Ping Huang](https://www.researchgate.net/profile/Ping-Huang-43) (IAP) and [Wen Chen](https://www.researchgate.net/profile/Wen-Chen-2) (IAP), we found a close linkage between the waveguide teleconnections along the polar front jet and the temperature extremes over northern Eurasia: teleconnection activity tended to be greater than normal during those summer months that had extreme temperatures. In contrast, teleconnection activity was commonly less during months with near-average temperatures. In addition, we found the current state-of-the-art climate models can reasonably capture the above relation. These findings demonstrate the important role of waveguide teleconnections along the polar front jet in generating regional temperature extremes over northern Eurasia.
+- 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
+- 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
+- 2023.07: Welcome Xiaona Yao to join the research group!
+- 2023.06: Peiqiang serves as a guest editor for the special issue "[Arctic Sea Ice-Atmosphere Interactions and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" in the Atmosphere journal.
+- 2019.11: Peiqiang is promoted as an Associate Researcher in IAP.
+- 2021.3: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
 
 
 
 ## FUNDED PROJECTS
-
+- National Natural Science Foundation General Project, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, NSFC, China (2021-2023)
 - Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2021)
 - Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
@@ -39,7 +37,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## HONORS
-
+- IOP trusted reviewer status, 2023
 - Outstanding Doctoral Thesis Award, 2019
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
