@@ -54,6 +54,10 @@ Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscien
 
 ## PUBLICATIONS
 
+- Wang, L.，**P. Xu**, 2023：Waveguide teleconnections in boreal summer: Progress and perspective. *Chineses Journal of Atmospheric Sciences*, in press.
+
+- Zhou, J., H. Peng, **P. Xu**, et al.，2014：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
+
 - Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
 - Dong, Z., L. Wang, **P. Xu**, et al., 2023: [Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
