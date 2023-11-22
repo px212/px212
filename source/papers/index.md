@@ -3,13 +3,15 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- 王林，**徐霈强**，*2023*：夏季急流遥相关的研究进展和展望. 大气科学，submitted.
+- 王林，**徐霈强**，*2023*：夏季急流遥相关的研究进展和展望. 大气科学，待刊.
+
+- Zhou, J., H. Peng, **P. Xu**, et al.，2014：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmospheric Research*，10709.
 
 - Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
 - Dong, Z., L. Wang, **P. Xu**, et al., 2023: [Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
 
-- **Xu, P.**, L. Wang, and W. Chen, 2022: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/35/17/JCLI-D-21-0705.1.xml?rskey=twbrno&result=1). *J. Climate*, **35**, 5787–5804.
+- **Xu, P.**, L. Wang, Z. Dong, Y. Li, X. Shen, and W. Chen, 2022: [The British-Okhotsk Corridor pattern and its linkage to the Silk Road pattern](https://journals.ametsoc.org/view/journals/clim/35/17/JCLI-D-21-0705.1.xml?rskey=twbrno&result=1). *J. Climate*, **35**, 5787–5804.
 
 - **Xu, P.**, L. Wang, and J. Ming, 2022: [Central Asian precipitation extremes affected by an intraseasonal planetary wave pattern](https://journals.ametsoc.org/view/journals/clim/35/8/JCLI-D-21-0657.1.xml?rskey=X6U2T8&result=2). *J. Climate*, **35**, 2603-2616.
 
