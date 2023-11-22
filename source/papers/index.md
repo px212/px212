@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- 王林，**徐霈强**，*2023*：夏季急流遥相关的研究进展和展望. 大气科学，待刊.
+- 王林，**徐霈强**，2023：夏季急流遥相关的研究进展和展望. 大气科学，待刊.
 
 - Zhou, J., H. Peng, **P. Xu**, et al.，2014：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmospheric Research*，10709.
 
