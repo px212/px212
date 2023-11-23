@@ -53,7 +53,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 ## PUBLICATIONS
 
-- Wang, L.，**P. Xu**, 2023：Waveguide teleconnections in boreal summer: Progress and perspective. *Chineses Journal of Atmospheric Sciences*, in press.
+- Wang, L., **P. Xu**, 2023：Waveguide teleconnections in boreal summer: Progress and perspective. *Chineses Journal of Atmospheric Sciences*, in press.
 
 - Zhou, J., H. Peng, **P. Xu**, et al.，2014：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
 
