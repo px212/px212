@@ -27,8 +27,8 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - IOP Trusted Reviewer Status, 2023
 - CSC Visiting Scholar Fellowship, 2023
 - CAS Postdoctoral Resaerch Fellowship, 2020
-- XMOD Geophysical Fluid Dynamics Fellowship, 2019
 - Outstanding Doctoral Thesis Award, 2019
+- XMOD Geophysical Fluid Dynamics Fellowship, 2019
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011, 2010
