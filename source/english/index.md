@@ -93,9 +93,9 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 ## CONFERENCES AND SEMINARS
 
-- **Xu, P.**, Waveguide teleconnections along the polar front jet: Insights and challenges. 15th Nov 2023, Unversity of Birmingham, Birmingham, UK. (oral, invited talk)
+- **Xu, P.**, Waveguide teleconnections along the polar front jet: Insights and challenges. 15th Nov 2023, Unversity of Birmingham, Birmingham, UK. (oral, **invited talk**)
   
-- **Xu, P.**, Waveguide teleconnections along the polar front jet: Characteristics, dynamics and prediction. 9th Nov 2023, Unversity of Oxford, Oxford, UK. (oral, invited talk)
+- **Xu, P.**, Waveguide teleconnections along the polar front jet: Characteristics, dynamics and prediction. 9th Nov 2023, Unversity of Oxford, Oxford, UK. (oral, **invited talk**)
 
 - **Xu, P.**, Waveguide teleconnections along the polar front jet and temperature extremes over Eurasia. 29 Oct-1 Nov 2023, The 10th CSSP-China annual conference, Met Office, Exeter, UK. (oral)
 
@@ -105,7 +105,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 - **Xu, P.**, Waveguide teleconnections and summer climate over Northern Eurasia. *1st International Workshop on the A3 Foresight Program*, 18-19 Apr 2023, Busan, Korea. (oral)
 
-- **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral, invited talk)
+- **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral, **invited talk**)
 
 - **Xu, P.**, L. Wang and W. Chen: The British–Baikal Corridor: a teleconnection pattern along the summertime polar front jet over Eurasia. *The 22th Conference on Atmosphere and Oceanic Fluid Dynamics (AOFD)*, 24-28 June 2019, Portland, US. (poster)
 
