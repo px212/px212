@@ -8,12 +8,21 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 **Email:** peiqiang@mail.iap.ac.cn
 
 
-
 ## EXPERIENCE
 - 2022.11-present, Associate Professor, IAP, China
-- 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (collaborator: Prof. Geoffrey Vallis)
+- 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (Host: Prof. Geoffrey Vallis)
 - 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
 
+
+## HONORS
+- IOP Trusted Reviewer Status, 2023
+- CSC Visiting Scholar Fellowship, 2023
+- CAS Postdoctoral Resaerch Fellowship, 2020
+- XMOD Geophysical Fluid Dynamics Fellowship, 2019
+- Outstanding Doctoral Thesis Award, 2019
+- Outstanding Graduates, 2013
+- National Scholarship (top 0.3%), 2012
+- Special Prize Scholarship (top 0.5%), 2011, 2010
 
 
 ## NEWS 
@@ -25,7 +34,6 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - 2021.03: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
 
 
-
 ## FUNDED PROJECTS
 - National Natural Science Foundation General Project, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, NSFC, China (2021-2023)
@@ -35,21 +43,9 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - International Academic Exchange project, China (2020-2021)
 
 
-
-## HONORS
-- IOP trusted reviewer status, 2023
-- Outstanding Doctoral Thesis Award, 2019
-- Outstanding Graduates, 2013
-- National Scholarship (top 0.3%), 2012
-- Special Prize Scholarship (top 0.5%), 2011
-- Special Prize Scholarship (top 0.5%), 2010
-
-
-
 ## EDITORIAL SERVICES
 
 Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth*, etc.
-
 
 
 ## PUBLICATIONS
@@ -92,13 +88,21 @@ Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscien
 
 
 
-## CONFERENCES
+## SEMINARS
+
+- **Xu, P.**, Waveguide teleconnections along the polar front jet: Insights and challenges. 15th Nov 2023, Unversity of Birmingham, Birmingham, UK. (oral, invited talk)
+  
+- **Xu, P.**, Waveguide teleconnections along the polar front jet: Characteristics, dynamics and prediction. 9th Nov 2023, Unversity of Oxford, Oxford, UK. (oral, invited talk)
+
+- **Xu, P.**, Waveguide teleconnections along the polar front jet and temperature extremes over Eurasia. 29 Oct-1 Nov 2023, The 10th CSSP-China annual conference, Met Office, Exeter, UK. (oral)
+
+- **Xu, P.**, The coupling between waveguide teleconnections along two jets. 29 Oct-1 Nov 2023, The 10th CSSP-China annual conference, Met Office, Exeter, UK. (poster)
 
 - **Xu, P.**, Understanding and predicting temperature extremes from intraseasonal to decadal timescales: The role of waveguide teleconnections. *The 28th IUGG General Assembly*, 12-17 July 2023, Berlin, Germany. (oral)
 
 - **Xu, P.**, Waveguide teleconnections and summer climate over Northern Eurasia. *1st International Workshop on the A3 Foresight Program*, 18-19 Apr 2023, Busan, Korea. (oral)
 
-- **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral)
+- **Xu, P.**, L. Wang, R. Geen, G. Vallis, W. Chen, G. Chen, I-S Kang, Y. Liu and P. Huang: Polar front jet waveguide, teleconnections and temperature extremes over Eurasia in the boreal summer. *Exeter Climate System (XCS) seminar*, 31th Jan 2020, University of Exeter, Exeter, UK. (oral, invited talk)
 
 - **Xu, P.**, L. Wang and W. Chen: The British–Baikal Corridor: a teleconnection pattern along the summertime polar front jet over Eurasia. *The 22th Conference on Atmosphere and Oceanic Fluid Dynamics (AOFD)*, 24-28 June 2019, Portland, US. (poster)
 
