@@ -8,6 +8,15 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 **Email:** peiqiang@mail.iap.ac.cn
 
 
+## NEWS 
+- 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
+- 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
+- 2023.07: Welcome Xiaona Yao to join the research group!
+- 2023.06: Peiqiang serves as a guest editor for the special issue "[Arctic Sea Ice-Atmosphere Interactions and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" in the Atmosphere journal.
+- 2022.11: Peiqiang is promoted as an Associate Researcher in IAP.
+- 2021.03: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
+
+
 ## EXPERIENCE
 - 2022.11-present, Associate Professor, IAP, China
 - 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (Host: Prof. Geoffrey Vallis)
@@ -25,15 +34,6 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - Special Prize Scholarship (top 0.5%), 2011, 2010
 
 
-## NEWS 
-- 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
-- 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
-- 2023.07: Welcome Xiaona Yao to join the research group!
-- 2023.06: Peiqiang serves as a guest editor for the special issue "[Arctic Sea Ice-Atmosphere Interactions and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" in the Atmosphere journal.
-- 2022.11: Peiqiang is promoted as an Associate Researcher in IAP.
-- 2021.03: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
-
-
 ## FUNDED PROJECTS
 - National Natural Science Foundation General Project, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, NSFC, China (2021-2023)
@@ -43,9 +43,12 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - International Academic Exchange project, China (2020-2021)
 
 
-## EDITORIAL SERVICES
-
-Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth*, etc.
+## PROFESSIONAL ACTIVITIES
+- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Prof. Son-Woo Yeh, Dr. Rachel White, Prof. Lin Wang)
+- Guest editor for Special issue "[Arctic Atmosphere–Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" of Atmosphere
+- Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
+- Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
+- Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth*, etc.
 
 
 ## PUBLICATIONS
@@ -88,7 +91,7 @@ Peer reviewer for*npj Climate and Atmospheric Science*, *The Innovation Geoscien
 
 
 
-## SEMINARS
+## CONFERENCES AND SEMINARS
 
 - **Xu, P.**, Waveguide teleconnections along the polar front jet: Insights and challenges. 15th Nov 2023, Unversity of Birmingham, Birmingham, UK. (oral, invited talk)
   
