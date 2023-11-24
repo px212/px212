@@ -44,7 +44,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## PROFESSIONAL ACTIVITIES
-- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Woo Yeh)
+- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
 - Guest editor for Special issue "[Arctic Atmosphere–Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" of Atmosphere
 - Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
