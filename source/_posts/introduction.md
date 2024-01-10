@@ -9,9 +9,9 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
-- 2024.01：徐霈强担任英国皇家气象学会季刊Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) 编委
+- 2024.01：徐霈强担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) 编委
 
-- 2023.10：徐霈强担任2024年[AOGS年会]（https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp）热带外大气动力学分会主召集人
+- 2023.10：徐霈强担任2024年[AOGS年会](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)热带外大气动力学分会主召集人
 
 - 2023.09：徐霈强入选[IOP优秀审稿人](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
 
