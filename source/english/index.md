@@ -9,7 +9,7 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## NEWS 
-- 2024.01: Peiqiang is appointed as the Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X)
+- 2024.01: Peiqiang serves as the Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X)
 - 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
 - 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
 - 2023.07: Welcome Xiaona Yao to join the research group!
@@ -24,6 +24,15 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 - 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
 
 
+## PROFESSIONAL ACTIVITIES
+- Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X)
+- Guest editor, Special issue "[Arctic Atmosphere–Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" of Atmosphere
+- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
+- Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
+- Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
+
+
 ## HONORS
 - IOP Trusted Reviewer Status, 2023
 - CSC Visiting Scholar Fellowship, 2023
@@ -36,21 +45,12 @@ Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteoro
 
 
 ## FUNDED PROJECTS
-- National Natural Science Foundation General Project, NSFC, China (2024-2027)
-- National Science Foundation for Young Scholars, NSFC, China (2021-2023)
-- Special Foundation of Chinese Academy of Sciences for Research Assistent, China (2020-2021)
+- National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
+- National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
+- CAS Postdoctoral Resaerch Fellowship, China (2020-2021)
 - Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
 - General Programn of China Postdoctoral Science Foundation, China (2020-2022)
 - International Academic Exchange project, China (2020-2021)
-
-
-## PROFESSIONAL ACTIVITIES
-- Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X)
-- Guest editor, Special issue "[Arctic Atmosphere–Sea Ice Interaction and Impacts](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)" of Atmosphere
-- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
-- Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
-- Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
 
 
 ## PUBLICATIONS
