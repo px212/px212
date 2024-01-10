@@ -11,7 +11,7 @@ date: 2020-06-21 00:00:00
 
 - 2024.01：徐霈强担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) 编委
 
-- 2023.10：徐霈强担任2024年[AOGS年会](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)热带外大气动力学分会主召集人
+- 2023.10：徐霈强担任[AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)热带外大气动力学分会主召集人
 
 - 2023.09：徐霈强入选[IOP优秀审稿人](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9)
 
@@ -19,7 +19,7 @@ date: 2020-06-21 00:00:00
 
 - 2023.07：欢迎姚晓娜同学加入课题组！
 
-- 2023.06：徐霈强担任Atmosphere杂志特刊"[北极海冰-气相互作用及影响](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
+- 2023.06：徐霈强担任Atmosphere特刊"[北极海冰-气相互作用及影响](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)"客座编辑
 
 - 2022.11：徐霈强晋升为副研究员
 
