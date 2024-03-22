@@ -3,6 +3,8 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
+- Huiwen Xiao, **P. Xu^*^**, L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
+
 - 王林，**徐霈强**，2023：北半球夏季急流遥相关：进展与展望. 大气科学，待刊.
 
 - Zhou, J., H. Peng, **P. Xu**, et al.，2024：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
