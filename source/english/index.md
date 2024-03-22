@@ -56,8 +56,9 @@ I am very fond of doing geophysical fluid experiments, you can find the details 
 
 
 ## PUBLICATIONS
+- Xiao, H., **P. Xu***, L. Wang*, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
 
-- Wang, L., **P. Xu**, 2023：Waveguide teleconnections in boreal summer: Progress and perspective. *Chineses Journal of Atmospheric Sciences*, in press.
+- Wang, L., **P. Xu**, 2023：[Waveguide teleconnections in boreal summer: Progress and perspective](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2311.23322?viewType=HTML). *Chineses Journal of Atmospheric Sciences*, **48**(1), 287-304.
 
 - Zhou, J., H. Peng, **P. Xu**, et al.，2014：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
 
