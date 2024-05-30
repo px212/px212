@@ -6,8 +6,8 @@ date: 2020-07-10 18:09:14
 **研究经历**
 - 2024年3月  — 2024年6月，访问学者，牛津大学物理学院（合作教授：[Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings)）
 - 2019年11月 — 2020年3月，访问学者，埃克塞特大学数学学院 (合作教授：[Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
-- 2022年11月 — 至今，副研究员，大气物理研究所
-- 2019年6月 — 2022年11月，博士后，大气物理研究所，中国科学院 （王林研究员，黄平研究员）
+- 2022年11月 — 至今，副研究员，大气物理研究所，中国科学院
+- 2019年6月 — 2022年11月，博士后，大气物理研究所，中国科学院
 
 
 **承担课题**
