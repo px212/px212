@@ -32,21 +32,12 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 ## HONORS
 - IOP Trusted Reviewer Status, 2023
 - CSC Visiting Scholar Fellowship, 2023
-- CAS Postdoctoral Resaerch Fellowship, 2020
+- CAS Postdoctoral Research Fellowship, 2020
 - Outstanding Doctoral Thesis Award, 2019
 - XMOD Geophysical Fluid Dynamics Fellowship, 2018
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011, 2010
-
-
-## FUNDED PROJECTS
-- National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
-- National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
-- CAS Postdoctoral Resaerch Fellowship, China (2020-2021)
-- Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
-- General Programn of China Postdoctoral Science Foundation, China (2020-2022)
-- International Academic Exchange project, China (2020-2021)
 
 
 ## PROFESSIONAL ACTIVITIES
@@ -56,6 +47,15 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
 - Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
+
+
+## FUNDED PROJECTS
+- National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
+- National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
+- CAS Postdoctoral Resaerch Fellowship, China (2020-2021)
+- Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
+- General Programn of China Postdoctoral Science Foundation, China (2020-2022)
+- International Academic Exchange project, China (2020-2021)
 
 
 ## PUBLICATIONS
