@@ -23,8 +23,8 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## EXPERIENCE
-- 2024.03-2024.06, Visiting scholar, Department of Physics, University of Oxford, UK (Host: Prof. [Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings))
-- 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (Host: Prof. [Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
+- 2024.03-2024.06, Visiting scholar, Department of Physics, University of Oxford, UK (Host: [Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings))
+- 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (Host: [Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
 - 2022.11-present, Associate Professor, IAP, China
 - 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
 
