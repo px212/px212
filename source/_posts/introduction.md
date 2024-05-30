@@ -9,7 +9,7 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
-- 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/#/)将于10月在南京召开，欢迎投稿
+- 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/#/)将于10月在南京召开，欢迎投稿！
 
 - 2024.01：徐霈强担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society编委](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
 
