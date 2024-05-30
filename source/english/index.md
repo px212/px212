@@ -3,14 +3,15 @@ title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
 
-Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). By using observations, idealized models and outputs from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how this may change in the future. You are weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. 
+Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). By using observations, idealized models and outputs from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how this may change in the future. You are weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. I am very fond of doing geophysical fluid experiments, you can find the details of our lab [here](http://www.njugfd.org/home.html).
 
-I am very fond of doing geophysical fluid experiments, you can find the details of our lab [here](http://www.njugfd.org/home.html). In addition, I am an [Associate Editor](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X). 
+ In addition, I am an [Associate Editor](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X). 
 
 **Email:** peiqiang@mail.iap.ac.cn
 
 
 ## NEWS 
+- 2024.03：IAMAS-ICDM Workshop 2024: [Linking Weather and Climate Dynamics Across Scales](https://icdm2024.nju.edu.cn/#/) will be held in Nanjing this October. Abstract submissions are welcome.
 - 2024.01: Peiqiang serves as an [Associate Editor](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) for the Quarterly Journal of the Royal Meteorological Society
 - 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
 - 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
