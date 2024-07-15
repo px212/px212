@@ -42,10 +42,11 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## PROFESSIONAL ACTIVITIES
-- [Associate Editor](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board), *Quarterly Journal of the Royal Meteorological Society* (2024- )
-- [Guest editor](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR), Special issue "Arctic Atmosphere–Sea Ice Interaction and Impacts" of *Atmosphere*
-- Primary convener of "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" session in [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
-- Primary founder of "Climate Friends Seminar" at Institute of Atmospheric Physics, Chinese Academy of Sciences (with approximately 50 seminars and a total of 1000 attendees to date)
+- Associate Editor, *[Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)*
+- Guest Editor, *[Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)* Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
+- Leading Organizer, *[JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)* Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
+- Leading Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
 - Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
 
