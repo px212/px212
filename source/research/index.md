@@ -30,7 +30,7 @@ date: 2020-07-10 18:09:14
 - Associate Editor, *[Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)* (2024-)
 - Leading Organizer, *[JGR-Atmospheres Special Issue](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)*: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
 - Guest Editor, *[Atmosphere Speical Issue](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)*: Arctic Atmosphere–Sea Ice Interaction and Impacts
-- Leading Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp) "Extratropical Large-scale Circulation Variability and Extreme Events Across Scales" Session(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
-- Co-chair, Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
+- Leading Convenor, [AOGS 2024 Annual Meeting Session](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 成员，[南京大学地球物理流体力学学生实验室](http://www.njugfd.org/)
 - 期刊审稿人，*npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* 等十余种期刊
