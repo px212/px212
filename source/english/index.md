@@ -11,7 +11,7 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## NEWS 
-- 2024.07: Peiqiang serves as the leading Organizer of Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
+- 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
 - 2024.03：Peiqiang serves as the Co-chair of Local Organization Committee of [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 2024.01: Peiqiang serves as an [Associate Editor](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) for the Quarterly Journal of the Royal Meteorological Society
 - 2023.10: Peiqiang serves as the primary convener of the Extratropical Atmospheric Dynamics Session at [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)
