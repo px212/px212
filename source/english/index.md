@@ -11,13 +11,14 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## NEWS 
+- 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 2024.01: Peiqiang serves as an Associate Editor for the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
 - 2023.10: Peiqiang serves as the Primary Convener of the Extratropical Atmospheric Dynamics Session at [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)
 - 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
 - 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
-- 2023.07: Welcome Xiaona Yao to join the research group!
+- 2023.07: Welcome Xiaona Yao to join the group!
 - 2023.06: Peiqiang serves as a Guest Editor for the Special Issue on "Arctic Sea Ice-Atmosphere Interactions and Impacts" at [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR).
 - 2022.11: Peiqiang is promoted as an Associate Professor in IAP.
 - 2021.03: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
@@ -30,6 +31,13 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
 
 
+## Group Members
+- Xiaona Yao. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models.
+- Linjun Han. Linjun's work focuses on understanding the intraseasonal variability of the atmospheric circulation in middle latitudes.
+- Yunfei Cao. Yunfei's work focuses on the causes of recent climate changes in the middle latitudes. 
+- Zihan Wang. Zihan is an undergraduate student from Yunnan University.
+
+
 ## HONORS
 - IOP Trusted Reviewer Status, 2023
 - CSC Visiting Scholar Fellowship, 2023
@@ -39,7 +47,7 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011, 2010
-
+  
 
 ## PROFESSIONAL ACTIVITIES
 - Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
