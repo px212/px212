@@ -8,6 +8,10 @@ date: 2020-06-21 00:00:00
 我是一名从事大气科学研究的青年科研工作者。我的研究旨在加深我们对中高纬度大气环流理论的理解（如急流、行星波和风暴轴等），尤其是全球变暖背景下的未来变化以及与之相关的极端天气和气候事件。我博士毕业于中国科学院大气物理研究所（2019），随后留所从事博士后研究，曾赴牛津大学、埃克塞特大学进行合作研究。曾入选中国科学院特别研究助理资助项目（2020），获得中国科学院大气物理研究所优秀博士论文（2019）。作为负责人主持/完成基金委面上项目、青年项目、中国博士后特别资助项目和面上项目等，参与科技部重点研发计划项目、基金委国际合作项目等。担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)编委、[Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR)客座编委、[JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)大气动力学专刊主召集人。此外，我非常热爱地球流体力学实验，您可以在[这里](http://www.njugfd.org/home.html)查看有关我们地流实验室的信息。
 
 ## 最新动态
+- 2024.08：欢迎韩林君和曹云飞同学加入课题组！
+
+- 2024.08：欢迎王子涵同学在课题组作本科论文！
+
 - 2024.07：[JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)正召集中纬度大气动力学和极端天气事件专刊，欢迎投稿！
 
 - 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/#/)将于10月在南京召开，欢迎投稿！
