@@ -32,10 +32,10 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## Group Members
-- Xiaona Yao. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yao (Yunnan Univerisity)
-- Linjun Han. Linjun's work focuses on understanding the intraseasonal variability of the atmospheric circulation in middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
-- Yunfei Cao. Yunfei's work focuses on the causes of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
-- Zihan Wang. Zihan is an undergraduate student from Yunnan University.
+- **Xiaona Yao**. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yao (Yunnan Univerisity)
+- **Linjun Han**. Linjun's work focuses on understanding the intraseasonal variability of the atmospheric circulation in middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
+- **Yunfei Cao**. Yunfei's work focuses on the causes of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
+- **Zihan Wang**. Zihan is an undergraduate student from Yunnan University.
 
 
 ## HONORS
