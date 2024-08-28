@@ -24,6 +24,13 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - 2021.03: After three months of planing and preparing, our climate group, named *Climate Friends*, is now finally established! Climate Friends is an academic club that is organized by the young researchers in IAP. It provides a platform for researchers to discuss climate sciences freely, from the chaotic mesoscale eddies in the oceans to the magnificent quasi-biennial oscillation in the stratosphere, from the furious hurricunes in the tropics to the worrying sea ice loss in the Arctic, from the freezing Last Glacial Maximum to the even more sweltering future, just any topics related to our fascinating climate! Climate Friends has routine activities (both off-line and on-line) at every Thursday evening (Beijing Time). Please feel free to contact me if you want more information!
 
 
+## Group Members
+- **Xiaona Yao**. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yang (Yunnan Univerisity)
+- **Linjun Han**. Linjun's work focuses on dynamics the atmospheric circulation in the middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
+- **Yunfei Cao**. Yunfei's work focuses on the attribution of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
+- **Zihan Wang**. Zihan is an undergraduate student from Yunnan University.
+
+
 ## EXPERIENCE
 - 2024.03-2024.06, Visiting scholar, Department of Physics, University of Oxford, UK (Host: [Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings))
 - 2019.11-2020.03, Visiting scholar, Department of Mathematics, University of Exeter, UK (Host: [Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
@@ -31,11 +38,15 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
 
 
-## Group Members
-- **Xiaona Yao**. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yang (Yunnan Univerisity)
-- **Linjun Han**. Linjun's work focuses on dynamics the atmospheric circulation in the middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
-- **Yunfei Cao**. Yunfei's work focuses on the attribution of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
-- **Zihan Wang**. Zihan is an undergraduate student from Yunnan University.
+## PROFESSIONAL ACTIVITIES
+- Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
+- Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
+- Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
+- Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
+- Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
+- Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
+
 
 
 ## HONORS
@@ -47,16 +58,6 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011, 2010
-  
-
-## PROFESSIONAL ACTIVITIES
-- Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
-- Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
-- Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
-- Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
-- Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
-- Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Enviromental Research Communications*, *Physics and Chemistry of the Earth* etc.
 
 
 ## FUNDED PROJECTS
