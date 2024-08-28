@@ -112,9 +112,13 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 ## CONFERENCES AND SEMINARS
 
+- **Xu, P.**, Stationary Rossby waves along the baroclinic atmospheric waveguide. 5th August 2024, Unversity of Bergen, Bergen, Norway. (oral)
+
+- **Xu, P.**, Stationary Rossby waves along the baroclinic atmospheric waveguide. 2nd May 2024, *AOPP Seminar*, Unversity of Oxford, Oxford, UK. (oral, **invited talk**)
+
 - **Xu, P.**, Waveguide teleconnections along the polar front jet: Insights and challenges. 15th Nov 2023, Unversity of Birmingham, Birmingham, UK. (oral, **invited talk**)
   
-- **Xu, P.**, Waveguide teleconnections along the polar front jet: Characteristics, dynamics and prediction. 9th Nov 2023, Unversity of Oxford, Oxford, UK. (oral, **invited talk**)
+- **Xu, P.**, Waveguide teleconnections along the polar front jet: Characteristics, dynamics and prediction. 9th Nov 2023, Unversity of Oxford, Oxford, UK.
 
 - **Xu, P.**, Waveguide teleconnections along the polar front jet and temperature extremes over Eurasia. 29 Oct-1 Nov 2023, The 10th CSSP-China annual conference, Met Office, Exeter, UK. (oral)
 
