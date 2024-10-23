@@ -11,6 +11,7 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## NEWS 
+- 2024.10: Peiqiang serves as the Academic Secretary for the Dynamic Meteorology Committee of the Chinese Meteorological Society
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
@@ -42,6 +43,7 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 - Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
 - Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
 - Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
+- Academic Secretary, Dynamic Meteorology Committee of the Chinese Meteorological Society
 - Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
 - Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
