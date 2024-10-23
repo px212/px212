@@ -27,6 +27,7 @@ date: 2020-07-10 18:09:14
 - 2011和2010，特等奖学金（top 0.5%）
 
 **学术兼职**
+- 中国气象学会动力气象学委员会学术秘书（2024-） 
 - Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) (2024-)
 - Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
 - Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
