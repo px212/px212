@@ -5,13 +5,13 @@ date: 2020-06-21 18:53:02
 
 Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). By using observations, idealized models and outputs from the GCMs, I hope to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how this may change in the future. You are weclome to visit my [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) and [Twitter](https://twitter.com/peiqiang_xu) webpages. I am also very fond of doing geophysical fluid experiments, you can find the details of our lab [here](http://www.njugfd.org/home.html).
 
-In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the Chinese Meteorological Society.
+In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/).
 
 **Email:** peiqiang@mail.iap.ac.cn
 
 
 ## NEWS 
-- 2024.10: Peiqiang serves as the Academic Secretary for the Dynamic Meteorology Committee of the Chinese Meteorological Society
+- 2024.10: Peiqiang serves as the Academic Secretary for the Dynamic Meteorology Commission of the Chinese Meteorological Society
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
