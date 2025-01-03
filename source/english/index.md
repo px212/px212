@@ -11,6 +11,7 @@ In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Met
 
 
 ## NEWS 
+- 2024.12：Peiqiang starts to vist the group of [Prof. James Screen](https://experts.exeter.ac.uk/22657-james-screen) at University of Exeter.
 - 2024.10: Peiqiang serves as the Secretary of the Dynamic Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/)
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
