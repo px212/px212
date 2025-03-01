@@ -5,7 +5,7 @@ date: 2020-06-21 18:53:02
 
 Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). By using observations, idealized models and outputs from the GCMs, I aim to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. Please feel free to explore my work on [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN), or follow me on [Twitter](https://twitter.com/peiqiang_xu). Beyond my primary research, I have a passion for geophysical fluid dynamics experiments. You can learn more about our lab’s work [here](http://www.njugfd.org/home.html).
 
-In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/).  On a personal note, I am an amateur violinist and was a member of my university’s badminton team.
+In addition, I am an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/).  On a personal note, I am an amateur violinist and a former member of my university’s badminton team.
 
 
 **Email:** peiqiang@mail.iap.ac.cn
