@@ -13,6 +13,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 
 ## NEWS 
+- JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events across Scales](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)", Submissions are now open. 
 - 2024.10: Peiqiang serves as the Secretary of the Dynamic Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/)
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.07: Peiqiang serves as the Leading Organizer for the Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme events" at [JGR-Atmopsheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)
@@ -51,7 +52,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 - Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
 - Student Presentation Awards Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*,*Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Theoretical and Applied Climatology*, *Atmospheric Sciences Letters*, *The Innovation Geoscience*, *Enviromental Research Communications*, *Ocean-Land-Atmosphere Research*, *Remote Sensing*, *Physics and Chemistry of the Earth* etc.
+- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Theoretical and Applied Climatology*, *Atmospheric Sciences Letters*, *The Innovation Geoscience*, *Enviromental Research Communications*, *Ocean-Land-Atmosphere Research*, *Remote Sensing*, *Physics and Chemistry of the Earth* etc.
 
 
 
