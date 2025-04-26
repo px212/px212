@@ -13,7 +13,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 
 ## NEWS 
-- **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624"), Submissions are now open.**
+- **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events]"(https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
 - 2024.10: Peiqiang serves as the Secretary of the Dynamic Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/)
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
