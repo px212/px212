@@ -51,7 +51,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 - Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
 - Student Presentation Awards Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *Journal of Climate*, *Journal of Geophysical Research-Atmospheres*, *Weather and Climate Dynamics*, *Enviromental Research Letters*,  *International Journal of Climatology*, *Theoretical and Applied Climatology*, *Weather and Climate Extremes*, *Advances in Atmospheric Sciences*, *Atmospheric Sciences Letters*, *npj Climate and Atmospheric Science*, *The Innovation Geoscience*, *Enviromental Research Communications*, *Ocean-Land-Atmosphere Research*, *Remote Sensing*, *Physics and Chemistry of the Earth* etc.
+- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*,*Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Theoretical and Applied Climatology*, *Atmospheric Sciences Letters*, *The Innovation Geoscience*, *Enviromental Research Communications*, *Ocean-Land-Atmosphere Research*, *Remote Sensing*, *Physics and Chemistry of the Earth* etc.
 
 
 
