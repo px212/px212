@@ -52,7 +52,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 - OSPP Judge, [EGU General Assembly 2025](https://www.egu25.eu/)
 - Student Presentation Awards Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Theoretical and Applied Climatology*, *Atmospheric Sciences Letters*, *The Innovation Geoscience*, *Enviromental Research Communications*, *Ocean-Land-Atmosphere Research*, *Remote Sensing*, *Physics and Chemistry of the Earth* etc.
+- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Geophysical Research Letters*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Atmospheric Sciences Letters*, *The Innovation Geoscience*, *Enviromental Research Communications*, etc.
 
 
 
