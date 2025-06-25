@@ -14,19 +14,17 @@ date: 2020-06-21 00:00:00
 
 - 2025.03：徐霈强访问雷丁大学气象系[John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/)教授并作HHH大气动力学报告
 
-- 2024.12：徐霈强访问埃克塞特大学数学与统计学院[James Screen](https://experts.exeter.ac.uk/22657-james-screen)教授和[Geoff Vallis](https://experts.exeter.ac.uk/22968-geoffrey-vallis)教授
-
 - 2024.10：徐霈强担任中国气象学会动力气象学委员会学术秘书
 
 - 2024.08：欢迎王子涵、韩林君和曹云飞同学加入课题组！
 
 - 2024.07：[JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)正召集中纬度大气动力学和极端天气事件专刊，欢迎投稿！
-
-- 2024.03：徐霈强访问牛津大学物理系[Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings)教授并作[AOPP报告](https://www.physics.ox.ac.uk/events/stationary-rossby-waves-baroclinic-atmospheric-waveguide)
   
 - 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/#/)将于10月在南京召开，欢迎投稿！
 
 - 2024.01：徐霈强应邀担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society编委](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
+
+- 2023.10：徐霈强访问伯明翰大学地理系[Ruth Geen](https://www.birmingham.ac.uk/schools/gees/people/profile?ReferenceId=194137)博士
 
 - 2023.10：徐霈强担任[AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)热带外大气动力学分会主召集人
 
