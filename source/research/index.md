@@ -4,9 +4,9 @@ date: 2020-07-10 18:09:14
 ---
 
 **研究经历**
-- 2024.12 — 2025.12，访问学者，埃克塞特大学数学学院（合作教授：[Prof. James Screen](https://experts.exeter.ac.uk/22657-james-screen)
-- 2024.03 — 2024.06，访问学者，牛津大学物理学院（合作教授：[Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings)
-- 2019.11 — 2020.03，访问学者，埃克塞特大学数学学院 (合作教授：[Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219)
+- 2024.12 — 2025.12，访问学者，埃克塞特大学数学学院（合作教授：[Prof. James Screen](https://experts.exeter.ac.uk/22657-james-screen))
+- 2024.03 — 2024.06，访问学者，牛津大学物理学院（合作教授：[Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings))
+- 2019.11 — 2020.03，访问学者，埃克塞特大学数学学院 (合作教授：[Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
 - 2022.11 — 至今，副研究员，大气物理研究所，中国科学院
 - 2019.06 — 2022.11，博士后，大气物理研究所，中国科学院
 
