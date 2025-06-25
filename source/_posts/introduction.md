@@ -24,7 +24,7 @@ date: 2020-06-21 00:00:00
 
 - 2024.01：徐霈强应邀担任英国皇家气象学会季刊[Quarterly Journal of the Royal Meteorological Society编委](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
 
-- 2023.10：徐霈强访问伯明翰大学地理系[Ruth Geen](https://www.birmingham.ac.uk/schools/gees/people/profile?ReferenceId=194137)博士
+- 2023.10：徐霈强访问伯明翰大学地理与环境系[Ruth Geen](https://www.birmingham.ac.uk/schools/gees/people/profile?ReferenceId=194137)博士
 
 - 2023.10：徐霈强担任[AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)热带外大气动力学分会主召集人
 
