@@ -12,13 +12,15 @@ date: 2020-06-21 00:00:00
 
 - 2025.04：徐霈强受邀在EGU 2025[急流动力学专题](https://meetingorganizer.copernicus.org/EGU25/session/53483)作邀请报告
 
-- 2025.03：徐霈强访问雷丁大学气象系[John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/)教授并作HHH大气动力学报告
+- 2025.03：徐霈强访问雷丁大学气象系[John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/)教授
 
 - 2024.10：徐霈强担任中国气象学会动力气象学委员会学术秘书
 
 - 2024.08：欢迎王子涵、韩林君和曹云飞同学加入课题组！
 
 - 2024.07：[JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624)正召集中纬度大气动力学和极端天气事件专刊，欢迎投稿！
+
+- 2024.05：徐霈强在牛津大学物理系作[AOPP报告](https://www.physics.ox.ac.uk/events/stationary-rossby-waves-baroclinic-atmospheric-waveguide)
   
 - 2024.03：[IAMAS国际动力气象学委员会2024年研讨会](https://icdm2024.nju.edu.cn/#/)将于10月在南京召开，欢迎投稿！
 
