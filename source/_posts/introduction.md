@@ -14,7 +14,7 @@ date: 2020-06-21 00:00:00
 
 - 2025.03：徐霈强访问雷丁大学气象系[John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/)教授并作HHH大气动力学报告
 
-- 2024.12：徐霈强访问埃克塞特大学统计与数学学院[James Screen](https://experts.exeter.ac.uk/22657-james-screen)教授和[Geoff Vallis](https://experts.exeter.ac.uk/22968-geoffrey-vallis)教授
+- 2024.12：徐霈强访问埃克塞特大学数学与统计学院[James Screen](https://experts.exeter.ac.uk/22657-james-screen)教授和[Geoff Vallis](https://experts.exeter.ac.uk/22968-geoffrey-vallis)教授
 
 - 2024.10：徐霈强担任中国气象学会动力气象学委员会学术秘书
 
