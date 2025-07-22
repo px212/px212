@@ -14,10 +14,14 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 ## NEWS 
 - **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events"](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
-- 2024.10: Peiqiang serves as the Secretary of the Dynamic Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/)
+- 2025.05: Peiqiang visited [Prof. Marlene Kretschmer](https://www.physes.uni-leipzig.de/en/fakultaet/gremien-und-beauftragte/commissioner-for-equal-opportunities/jun-prof-dr-marlene-kretschmer) at the Leipzig Institute for Meteorology (University of Leipzig) and [Prof. Jakob Zscheischler](https://www.ufz.de/index.php?en=48052) at the Helmholtz Centre for Environmental Research (UFZ).
+- 2025.04: Peiqiang was invited to deliver a keynote presentation on [jet stream dynamics session](https://meetingorganizer.copernicus.org/EGU25/session/53483) at the European Geosciences Union (EGU) General Assembly 2025.
+- 2025.03: Peiqiang visited [Prof. John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/) at the Department of Meteorology, University of Reading.
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
+- 2024.05: Peiqiang delivered an [AOPP seminar](https://www.physics.ox.ac.uk/events/stationary-rossby-waves-baroclinic-atmospheric-waveguide) at the Department of Physics, University of Oxford.
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 2024.01: Peiqiang serves as an Associate Editor for the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
+- 2024.11: Peiqiang visited [Dr. Ruth Geen](https://www.birmingham.ac.uk/schools/gees/people/profile?ReferenceId=194137) at the University of Birmingham.
 - 2023.10: Peiqiang serves as the Primary Convener of the Extratropical Atmospheric Dynamics Session at [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp)
 - 2023.09: Peiqiang has achieved the [IOP trusted reviewer status](https://accreditations.ioppublishing.org/ce288510-4238-420a-870b-e4b549fd4134#gs.50kyb9).
 - 2023.09: Peiqiang's project funded by the National Natural Science Foundation (General Project) has been granted approval.
