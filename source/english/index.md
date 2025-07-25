@@ -5,13 +5,13 @@ date: 2020-06-21 18:53:02
 
 Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). 
 
-I received my PhD with honor from IAP/CAS and was later awarded a prestigious CAS postdoctoral fellowship before joining the faculty. By using observations, idealized models and outputs from the GCMs, my research aims to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. Please feel free to explore my work on [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN), or follow me on [Twitter](https://twitter.com/peiqiang_xu). In addition, I am passionate about geophysical fluid dynamics experiments, you can learn more about our lab’s work at Nanjing University [here](http://www.njugfd.org/home.html).
+I received my PhD with honor from IAP/CAS and was later awarded a prestigious CAS postdoctoral fellowship before joining the faculty. By using observations, idealized models and outputs from the GCMs, my research aims to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. In addition, I am passionate about geophysical fluid dynamics experiments, you can learn more about our lab’s work at Nanjing University [here](http://www.njugfd.org/home.html).
 
 I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/).  On a personal note, I am an amateur violinist and was an active member of my university’s badminton team.
 
+[GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu) or [Twitter](https://twitter.com/peiqiang_xu). 
 
 **Email:** peiqiang@mail.iap.ac.cn
-
 
 ## NEWS 
 - **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events"](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
