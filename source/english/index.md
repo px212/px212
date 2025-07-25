@@ -10,6 +10,7 @@ I received my PhD with honor from IAP/CAS and was later awarded a prestigious CA
 I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X) and the Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/).  On a personal note, I am an amateur violinist and was an active member of my university’s badminton team.
 
 **Email:** peiqiang@mail.iap.ac.cn
+
 [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN) [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu) or [Twitter](https://twitter.com/peiqiang_xu). 
 
 ## NEWS 
