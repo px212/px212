@@ -42,7 +42,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 - 2024.03-2024.06, Visiting scientist, Department of Physics, University of Oxford, UK (Host: [Prof. Tim Woollings](https://www.physics.ox.ac.uk/our-people/woollings))
 - 2019.11-2020.03, Visiting scientist, Department of Mathematics and statistics, University of Exeter, UK (Host: [Prof. Geoffrey Vallis](https://mathematics.exeter.ac.uk/people/profile/index.php?web_id=gv219))
 - 2022.11-present, Associate Professor, IAP, China
-- 2019.06-2022.11, Postdoctoral Reseacher, IAP, China
+- 2019.06-2022.11, CAS Postdoctoral Reseach Fellow, IAP, China
 
 
 ## PROFESSIONAL ACTIVITIES
@@ -73,7 +73,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 ## FUNDED PROJECTS
 - National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
-- CAS Postdoctoral Resaerch Fellowship, China (2020-2021)
+- CAS Postdoctoral Research Fellowship, China (2020-2021)
 - Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
 - General Programn of China Postdoctoral Science Foundation, China (2020-2022)
 - International Academic Exchange project, China (2020-2021)
