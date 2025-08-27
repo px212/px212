@@ -31,10 +31,10 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 
 ## Group Members
-- **Xiaona Yao**. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yang (Yunnan Univerisity)
-- **Linjun Han**. Linjun's work focuses on dynamics of the atmospheric circulation in the middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
-- **Yunfei Cao**. Yunfei's work focuses on the attribution of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
-- **Zihan Wang**. Zihan is an undergraduate student from Yunnan University.
+- **Xiaona Yao**. Master student. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yang (Yunnan Univerisity)
+- **Linjun Han**. PhD student. Linjun's work focuses on dynamics of the atmospheric circulation in the middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
+- **Yunfei Cao**. PhD student. Yunfei's work focuses on the attribution of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
+- **Zihan Wang**. PhD Student. Zihan will start his PhD from Sep 2025. 
 
 
 ## EXPERIENCE
