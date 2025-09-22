@@ -83,7 +83,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 ## PUBLICATIONS
 - **Xu, P.**, J. Screen, L. Wang, T. Woollings, H. Fan, M. Patterson and Z. Dong, 2025: [Impact of Asian Summer Monsoon on the 2021 Pacific Northwest Heatwave: *Can It? Did It?*](https://doi.org/10.1029/2025GL117205). *Geophys. Res. Lett.*, **48**, e2025GL117205.
 
-- Xiao, H., **P. Xu**, L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
+- Xiao, H., **P. Xu** and L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
    
 - Zhou, J., H. Peng, **P. Xu**, et al.，2024：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
   
@@ -93,7 +93,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 - Wang, L., **P. Xu**, 2023：[Waveguide teleconnections in boreal summer: Progress and perspective](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2311.23322?viewType=HTML). *Chineses Journal of Atmospheric Sciences*, **48**(1), 287-304.
 
-- Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
+- Shen, X., L. Wang, A. Scaife, S. Hardiman and **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
 - Dong, Z., L. Wang, **P. Xu**, et al., 2023: [Heatwaves similar to the unprecedented one in summer 2021 over western North America are projected to become more frequent in a warmer world](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022EF003437). *Earth's Future*, **11**, 2022EF003437.
 
