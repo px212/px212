@@ -85,11 +85,11 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 - Xiao, H., **P. Xu** and L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
    
-- Zhou, J., H. Peng, **P. Xu**, et al.，2024：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
+- Zhou, J., H. Peng, **P. Xu**, et al., 2024：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
   
 - Ding, S., X. Chen, X. Zhang, X. Zhang and **P. Xu**, 2024: [A Review on the Arctic–Midlatitudes Connection: Interactive Impacts, Physical Mechanisms, and Nonstationary](https://www.mdpi.com/2073-4433/15/9/1115). *Atmosphere*, **15**, 1115.
   
-- Wang, H., Z. Zuo, R. Zhang, L. Peng, K. Zhang, D. Chen, D. Xiao, Q. You, G. Dai, R. Zhang, H. Yang, X. Chen, Z. Lin, **P. Xu** and L. Wang, 2024: [Thermodynamic effect dictates influence of the Atlantic Multidecadal Oscillation on Eurasia winter temperature](https://www.nature.com/articles/s41612-024-00686-2). *npj Climate and Atmospheric Science*, **7**, 151.
+- Wang, H., Z. Zuo, R. Zhang, L. Peng, K. Zhang, D. Chen, D. Xiao, Q. You, G. Dai, R. Zhang, H. Yang, X. Chen, Z. Lin, **P. Xu** and L. Qiao, 2024: [Thermodynamic effect dictates influence of the Atlantic Multidecadal Oscillation on Eurasia winter temperature](https://www.nature.com/articles/s41612-024-00686-2). *npj Climate and Atmospheric Science*, **7**, 151.
 
 - Wang, L., **P. Xu**, 2023：[Waveguide teleconnections in boreal summer: Progress and perspective](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2311.23322?viewType=HTML). *Chineses Journal of Atmospheric Sciences*, **48**(1), 287-304.
 
