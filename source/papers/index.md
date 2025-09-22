@@ -9,6 +9,10 @@ date: 2020-06-21 18:52:29
 - 王林，**徐霈强**，2024：[北半球夏季急流遥相关：进展与展望](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2311.23322?viewType=HTML). *大气科学*，**48**(1), 287-304.
 
 - Zhou, J., H. Peng, **P. Xu**, et al.，2024：[Extreme heat event over Northwest China driven by Silk Road Pattern teleconnection and its possible mechanism](https://www.sciencedirect.com/science/article/pii/S0169809523004878). *Atmos. Res.*, **297**, 10709.
+  
+- Ding, S., X. Chen, X. Zhang, X. Zhang and **P. Xu**, 2024: [A Review on the Arctic–Midlatitudes Connection: Interactive Impacts, Physical Mechanisms, and Nonstationary](https://www.mdpi.com/2073-4433/15/9/1115). *Atmosphere*, **15**, 1115.
+  
+- Wang, H., Z. Zuo, R. Zhang, L. Peng, K. Zhang, D. Chen, D. Xiao, Q. You, G. Dai, R. Zhang, H. Yang, X. Chen, Z. Lin, **P. Xu** and L. Wang, 2024: [Thermodynamic effect dictates influence of the Atlantic Multidecadal Oscillation on Eurasia winter temperature](https://www.nature.com/articles/s41612-024-00686-2). *npj Climate and Atmospheric Science*, **7**, 151.
 
 - Shen, X., L. Wang, A. Scaife, S. Hardiman, **P. Xu**, 2023: [The Stratosphere-Troposphere Oscillation as the dominant intraseasonal coupling mode between the stratosphere and troposphere](https://journals.ametsoc.org/view/journals/clim/36/7/JCLI-D-22-0238.1.xml). *J. Climate*, **36**, 2259-2276.
 
