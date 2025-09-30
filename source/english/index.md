@@ -13,7 +13,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 ## NEWS 
 - **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events"](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
-- 2025.09: Peiqiang serves as a member of the contact group of WCRP-Global Extremes Platform (GEP)
+- 2025.09: Peiqiang serves as a member of the WCRP-Global Extremes Platform (GEP) Contact Group
 - 2025.05: Peiqiang visited [Prof. Marlene Kretschmer](https://www.physes.uni-leipzig.de/en/fakultaet/gremien-und-beauftragte/commissioner-for-equal-opportunities/jun-prof-dr-marlene-kretschmer) at the Leipzig Institute for Meteorology (University of Leipzig) and [Prof. Jakob Zscheischler](https://www.ufz.de/index.php?en=48052) at the Helmholtz Centre for Environmental Research (UFZ).
 - 2025.04: Peiqiang was invited to deliver a keynote presentation on [jet stream dynamics session](https://meetingorganizer.copernicus.org/EGU25/session/53483) at the European Geosciences Union (EGU) General Assembly 2025.
 - 2025.03: Peiqiang visited [Prof. John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/) at the Department of Meteorology, University of Reading.
