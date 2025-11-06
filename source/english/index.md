@@ -32,12 +32,14 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 
 ## Group Members
-- **Xiaona Yao**. Master student. Xiaona's work focuses on evaluating the atmospheric teleconnections in climate models. She is co-supervised with Prof. Yali Yang (Yunnan Univerisity)
-- **Linjun Han**. PhD student. Linjun's work focuses on dynamics of the atmospheric circulation in the middle latitudes. She is co-supervised with Prof. Lin Wang (IAP)
-- **Yunfei Cao**. PhD student. Yunfei's work focuses on the attribution of recent climate changes in the middle latitudes. He is co-superised with Prof. Lin Wang.
-- **Zihan Wang**. PhD Student. Zihan will start his PhD from Sep 2025.
-- **Shirui Wang**. Shirui is an undergraduate student at Yunnan University. 
-
+- **Leiye Yuan**, PhD student. Leiye's work focuses on multiscale interactions in temperature extremes. He is co-supervised with Prof. Lin Wang (IAP).
+- **Linjun Hann**, PhD student. Linjun's work focuses on the dynamics of mid-latitude atmospheric circulation. She is co-supervised with Prof. Lin Wang.
+- **Yunfei Caon**, PhD student. Yunfei's work focuses on attributing recent climate changes in the mid-latitudes. He is co-supervised with Prof. Lin Wang.
+- **Yuehan Zhoutiann**, PhD student. Yuehan's work focuses on the variability of the Siberian High. She is co-supervised with Prof. Lin Wang.
+- **Zihan Wangn**, PhD student. Zihan will begin his PhD program in September 2025.
+- **Shirui Wangn**, Undergraduate Research Student. Shirui is an undergraduate student at Yunnan University.
+- **Xiaona Yaon**, Master's Student (Alumna). Xiaona's work focused on evaluating atmospheric teleconnections in climate models. She was co-supervised with Prof. Yali Yang (Yunnan University)
+  
 
 ## EXPERIENCE
 - 2024.11-present, Visiting scientist, Department of Mathematics and statistics, University of Exeter, UK (Host: [Prof. James Screen](https://experts.exeter.ac.uk/22657-james-screen))
