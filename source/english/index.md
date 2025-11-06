@@ -33,12 +33,12 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 ## Group Members
 - **Leiye Yuan**, PhD student. Leiye's work focuses on multiscale interactions in temperature extremes. (co-supervised with Prof. Lin Wang)
-- **Linjun Hann**, PhD student. Linjun's work focuses on the dynamics of mid-latitude atmospheric circulation.(co-supervised with Prof. Lin Wang)
-- **Yunfei Caon**, PhD student. Yunfei's work focuses on attributing recent climate changes in the mid-latitudes. (co-supervised with Prof. Lin Wang)
+- **Linjun Han**, PhD student. Linjun's work focuses on the dynamics of mid-latitude atmospheric circulation.(co-supervised with Prof. Lin Wang)
+- **Yunfei Cao**, PhD student. Yunfei's work focuses on attributing recent climate changes in the mid-latitudes. (co-supervised with Prof. Lin Wang)
 - **Yuehan Zhoutian**, PhD student. Yuehan's work focuses on the variability of the Siberian High. (co-supervised with Prof. Lin Wang)
-- **Zihan Wangn**, PhD student. Zihan will begin his PhD program in September 2025.
-- **Shirui Wangn**, Undergraduate Research Student. Shirui is an undergraduate student at Yunnan University.
-- **Xiaona Yaon**, Master's Student (Alumna). Xiaona's work focused on evaluating atmospheric teleconnections in climate models. (co-supervised with Prof. Yali Yang)
+- **Zihan Wang**, PhD student. Zihan will begin his PhD program in September 2025.
+- **Shirui Wang**, Undergraduate Research Student. Shirui is an undergraduate student at Yunnan University.
+- **Xiaona Yao**, Master's Student (Alumna). Xiaona's work focused on evaluating atmospheric teleconnections in climate models. (co-supervised with Prof. Yali Yang)
   
 
 ## EXPERIENCE
