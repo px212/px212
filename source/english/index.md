@@ -75,6 +75,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 
 ## FUNDED PROJECTS
+- National Natural Science Foundation General Project, PI, NSFC, China (2026-2029)
 - National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
 - CAS Postdoctoral Research Fellowship, China (2020-2021)
