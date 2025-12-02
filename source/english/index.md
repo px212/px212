@@ -51,6 +51,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 
 ## PROFESSIONAL ACTIVITIES
 - Secretary, Dynamic Meteorology Commission of the Chinese Meteorological Society
+- Co-chair,  [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group
 - Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
 - Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
 - Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
