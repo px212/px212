@@ -56,7 +56,7 @@ I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorolog
 - Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
 - Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
 - Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
-- Primary Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- Convenor, [AOGS 2024-2026 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales
 - OSPP Judge, [EGU General Assembly 2025](https://www.egu25.eu/)
 - Student Presentation Awards Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
