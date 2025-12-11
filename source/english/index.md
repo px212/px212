@@ -9,7 +9,7 @@ Dr. Xu received his PhD with honors from IAP/CAS and subsequently held a prestig
 
 Dr. Xu serves as an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X), Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/), and Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group. On a personal note, he is an amateur violinist and was an active member of his university’s badminton team.
 
-A full list of publications and citations can be found [here](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN)
+A full list of his publications and citations can be found [here](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN)
 
 **Email:** peiqiang@mail.iap.ac.cn
 
