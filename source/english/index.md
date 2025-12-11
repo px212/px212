@@ -4,7 +4,9 @@ date: 2020-06-21 18:53:02
 ---
 Dr Xu is an Associate Professor of Meteorology and Deputy Director of the Center for Monsoon System Research at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS).
 
-Dr Xu received his PhD with honours from IAP/CAS and subsequently held a prestigious CAS postdoctoral fellowship before joining the faculty. By combining observations, idealised models, and general circulation models (GCMs), his research aims to improve our understanding of the key controls on the large-scale mid-latitude circulation, including jet streams, storm tracks, and planetary waves, and how these may evolve in a warming climate. He is also passionate about geophysical fluid dynamics (GFD) experiments. You can learn more about his lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html).
+He received his PhD with honours from IAP/CAS and subsequently held a prestigious CAS postdoctoral fellowship before joining the faculty. By combining observations, idealised models, and general circulation models (GCMs), his research aims to improve our understanding of the key controls on the large-scale midlatitude circulation, including jet streams, storm tracks, and planetary waves, and how these may evolve in a warming climate. 
+
+He is also passionate about geophysical fluid dynamics (GFD) experiments. You can learn more about his lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html).
 
 Dr Xu serves as an Associate Editor of the [*Quarterly Journal of the Royal Meteorological Society*](https://rmets.onlinelibrary.wiley.com/journal/1477870X), Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/), and Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group. On a personal note, he is an amateur violinist and was an active member of his university badminton team.
 
