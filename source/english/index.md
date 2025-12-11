@@ -2,7 +2,7 @@
 title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
-**Dr Xu is an Associate Professor of Meteorology and Deputy Director of the Center for Monsoon System Research at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS).**
+Dr Xu is an Associate Professor of Meteorology and Deputy Director of the Center for Monsoon System Research at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS).
 
 Dr Xu received his PhD with honours from IAP/CAS and subsequently held a prestigious CAS postdoctoral fellowship before joining the faculty. By combining observations, idealised models, and general circulation models (GCMs), his research aims to improve our understanding of the key controls on the large-scale circulation in the mid-latitudes, including jet streams, storm tracks, and planetary waves, and how these may evolve in the future. He is also passionate about geophysical fluid dynamics (GFD) experiments, you can learn more about his lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html).
 
