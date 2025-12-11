@@ -3,11 +3,13 @@ title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
 
-I am an Associate Professor of Meteorology and Deputy Director of the Center for Monsoon System Research at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). 
+I am an Associate Professor of Meteorology and Deputy Director of the Center for Monsoon System Research  at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). 
 
-I received my PhD with honors from IAP/CAS and was later awarded a prestigious CAS postdoctoral fellowship before joining the faculty. By using observations, idealized models and outputs from the GCMs, my research aims to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. In addition, I am also passionate about geophysical fluid dynamics experiments, you can learn more about our lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html). A full list of my publications and citations can be found [here](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN).
+I received my PhD with honors from IAP/CAS and subsequently held a prestigious CAS postdoctoral fellowship before joining the faculty. By combining observations, idealized models and general circulation models (GCMs), my research aims to improve our understanding of key controls on large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. I am also passionate about geophysical fluid dynamics (GFD) experiments, you can learn more about our lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html). 
 
-I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X). I am also Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/) and the Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group.  On a personal note, I am an amateur violinist and was an active member of my university’s badminton team.
+I serve as an Associate Editor of the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/journal/1477870X), Secretary of the Dynamical Meteorology Commission of the [Chinese Meteorological Society](http://www.cms1924.org/) and Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group. On a personal note, I am an amateur violinist and was an active member of my university’s badminton team.
+
+A full list of my publications and citations can be found [here](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN).
 
 **Email:** peiqiang@mail.iap.ac.cn
 
