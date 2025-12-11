@@ -3,7 +3,7 @@ title: Peiqiang Xu
 date: 2020-06-21 18:53:02
 ---
 
-Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology at [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). 
+Welcome! Thanks for visiting my homepage. I am an Associate Professor in meteorology and the Deputy Director of Center for monsoon system Research at the [Institute of Atmospheric Physics](http://english.iap.cas.cn/) (IAP), Chinese Academy of Sciences (CAS). 
 
 I received my PhD with honor from IAP/CAS and was later awarded a prestigious CAS postdoctoral fellowship before joining the faculty. By using observations, idealized models and outputs from the GCMs, my research aims to improve our understanding of key controls on the large-scale circulation (e.g., jet streams, storm tracks and planetary waves) in the middle latitudes, and how these may evolve in the future. Please feel free to explore my work on [GoogleScholar](https://scholar.google.com/citations?user=p66mFW4AAAAJ&hl=zh-CN), [ResearchGate](https://www.researchgate.net/profile/Peiqiang_Xu), or follow me on [Twitter](https://twitter.com/peiqiang_xu). In addition, I am also passionate about geophysical fluid dynamics experiments, you can learn more about our lab’s GFD work at Nanjing University [here](http://www.njugfd.org/home.html). 
 
