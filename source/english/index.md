@@ -50,6 +50,17 @@ A full list of his publications and citations can be found [here](https://schola
 - 2019.06-2022.11, CAS Postdoctoral Reseach Fellow, IAP, China
 
 
+## FUNDED PROJECTS
+- NSFC–Royal Society (NSFC–RS) Collaboration and Exchange Programme, China PI (2026–2027) (UK PI: Prof. Tim Woollings)
+- National Natural Science Foundation General Project, PI, NSFC, China (2026-2029)
+- National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
+- National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
+- CAS Postdoctoral Research Fellowship, China (2020-2021)
+- Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
+- General Programn of China Postdoctoral Science Foundation, China (2020-2022)
+- International Academic Exchange project, China (2020-2021)
+
+
 ## PROFESSIONAL ACTIVITIES
 - Secretary, Dynamic Meteorology Commission of the Chinese Meteorological Society
 - Co-chair,  [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group
@@ -64,7 +75,6 @@ A full list of his publications and citations can be found [here](https://schola
 - Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Geophysical Research Letters*, *Enviromental Research Letters*,  *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Atmospheric Sciences Letters*, *Enviromental Research Communications*, *The Innovation Geoscience* etc.
 
 
-
 ## HONORS
 - IOP Trusted Reviewer Status, 2023
 - CSC Visiting Scholar Fellowship, 2023
@@ -74,17 +84,6 @@ A full list of his publications and citations can be found [here](https://schola
 - Outstanding Graduates, 2013
 - National Scholarship (top 0.3%), 2012
 - Special Prize Scholarship (top 0.5%), 2011, 2010
-
-
-## FUNDED PROJECTS
-- NSFC–Royal Society (NSFC-RC) Collaboration Programme, PI, China (2026-2027) (UK PI: Prof. Tim Woollings)
-- National Natural Science Foundation General Project, PI, NSFC, China (2026-2029)
-- National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
-- National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
-- CAS Postdoctoral Research Fellowship, China (2020-2021)
-- Special Foundation of China Postdoctoral Science Foundation, China (2021-2023)
-- General Programn of China Postdoctoral Science Foundation, China (2020-2022)
-- International Academic Exchange project, China (2020-2021)
 
 
 ## PUBLICATIONS
