@@ -77,6 +77,7 @@ A full list of his publications and citations can be found [here](https://schola
 
 
 ## FUNDED PROJECTS
+- NSFC–Royal Society (NSFC-RC) Collaboration Programme, PI, China (2026-2027) (UK PI: Prof. Tim Woollings)
 - National Natural Science Foundation General Project, PI, NSFC, China (2026-2029)
 - National Natural Science Foundation General Project, PI, NSFC, China (2024-2027)
 - National Science Foundation for Young Scholars, PI, NSFC, China (2021-2023)
