@@ -87,6 +87,9 @@ A full list of his publications and citations can be found [here](https://schola
 
 
 ## PUBLICATIONS
+
+- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia. *Journal of Climate.*, accepted.
+
 - **Xu, P.**, J. Screen, L. Wang, T. Woollings, H. Fan, M. Patterson and Z. Dong, 2025: [Impact of Asian Summer Monsoon on the 2021 Pacific Northwest Heatwave: *Can It? Did It?*](https://doi.org/10.1029/2025GL117205). *Geophys. Res. Lett.*, **48**, e2025GL117205.
 
 - Xiao, H., **P. Xu** and L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
