@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia. *Journal of Climate.*, accepted.
+- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia. *Journal of Climate.*, accepted.
 
 - **Xu, P.**, J. Screen, L. Wang, T. Woollings, H. Fan, M. Patterson and Z. Dong, 2025: [Impact of Asian Summer Monsoon on the 2021 Pacific Northwest Heatwave: *Can It? Did It?*](https://doi.org/10.1029/2025GL117205). *Geophys. Res. Lett.*, **48**, e2025GL117205.
 
