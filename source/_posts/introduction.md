@@ -9,7 +9,7 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
-- 2026.04：我们关于华北热浪及其次季节可预报性的[论文](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107642)入选 ESI 高被引论文，并位列 Geophysical Research Letters 2024 年最高引用论文前十
+- 2026.04：我们关于华北热浪及其次季节可预报性的[GRL论文](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107642)入选 ESI 高被引论文，并位列 Geophysical Research Letters 2024 年最高引用论文前十
 
 - 2025.11：徐霈强担任世界气候研究计划（WCRP）"[全球极端天气事件平台（GEP）](https://gep.wcrp-rifs.org/contact-group/)"联络组联合负责人
 
