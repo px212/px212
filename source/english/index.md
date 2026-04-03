@@ -13,13 +13,14 @@ A full list of his publications and citations can be found [here](https://schola
 **Email:** peiqiang@mail.iap.ac.cn
 
 ## NEWS 
-- **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events"](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
+
 - 2026.04: Our [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107642) on North China heatwaves and subseasonal predictability was selected as an ESI Highly Cited Paper and ranked among the Top 10 most cited GRL papers of 2024.
 - 2025.12: Peiqiang serves as Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group
 - 2025.05: Peiqiang visited [Prof. Marlene Kretschmer](https://www.physes.uni-leipzig.de/en/fakultaet/gremien-und-beauftragte/commissioner-for-equal-opportunities/jun-prof-dr-marlene-kretschmer) at the Leipzig Institute for Meteorology (University of Leipzig) and [Prof. Jakob Zscheischler](https://www.ufz.de/index.php?en=48052) at the Helmholtz Centre for Environmental Research (UFZ).
 - 2025.04: Peiqiang was invited to deliver a keynote presentation on [jet stream dynamics session](https://meetingorganizer.copernicus.org/EGU25/session/53483) at the European Geosciences Union (EGU) General Assembly 2025.
 - 2025.03: Peiqiang visited [Prof. John Methven](https://research.reading.ac.uk/meteorology/people/john-methven/) at the Department of Meteorology, University of Reading.
 - 2024.08: Welcome Linjun Han, Yunfei Cao and Zihan Wang to join the group!
+- **2024.07: JGR-Atmospheres is organizing a [Special Issue on "Extratropical Large-scale Atmospheric Dynamics and Extreme Events"](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624), Submissions are now open.**
 - 2024.05: Peiqiang delivered an [AOPP seminar](https://www.physics.ox.ac.uk/events/stationary-rossby-waves-baroclinic-atmospheric-waveguide) at the Department of Physics, University of Oxford.
 - 2024.03: Peiqiang serves as the Co-chair of Local Organization Committee for the [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 2024.01: Peiqiang serves as an Associate Editor for the [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board)
