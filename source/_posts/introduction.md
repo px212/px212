@@ -9,7 +9,7 @@ date: 2020-06-21 00:00:00
 
 ## 最新动态
 
-- 2026.06：徐霈强入选IPCC AR7青年科学家评审小组成员
+- 2026.06：徐霈强担任IPCC AR7青年科学家评审小组成员
 
 - 2026.04：我们发表在Geophysical Research Letters上关于华北热浪及其次季节可预报性的[论文](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107642)入选 ESI 高被引论文，并位列GRL 2024 年发表的1600余篇论文中位列引用次数前十
 
