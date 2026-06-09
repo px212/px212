@@ -14,6 +14,7 @@ A full list of his publications and citations can be found [here](https://schola
 
 ## NEWS 
 
+- 2026.06: Peiqiang serves as an Early Career Research (ECR) Review Group Member for IPCC AR7.
 - 2026.04: Our [paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL107642) on North China heatwaves and subseasonal predictability was selected as an ESI Highly Cited Paper and ranked among the Top 10 most-cited papers published in Geophysical Research Letters in 2024, out of more than 1,600 papers.
 - 2025.12: Peiqiang serves as Co-chair of the [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group
 - 2025.05: Peiqiang visited [Prof. Marlene Kretschmer](https://www.physes.uni-leipzig.de/en/fakultaet/gremien-und-beauftragte/commissioner-for-equal-opportunities/jun-prof-dr-marlene-kretschmer) at the Leipzig Institute for Meteorology (University of Leipzig) and [Prof. Jakob Zscheischler](https://www.ufz.de/index.php?en=48052) at the Helmholtz Centre for Environmental Research (UFZ).
