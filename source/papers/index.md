@@ -1,9 +1,8 @@
-<img width="432" height="29" alt="image" src="https://github.com/user-attachments/assets/f37b0b99-e843-4520-b436-972f4d1c7777" />---
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Yuan, and L. Wang, 2026: A Cumulative Perspective on the Attribution of Low-Frequency Temperature Anomalies. *J. Geophys. Res.-Atmos.*, To be submitted. 
+- **Xu, P.**, L. Yuan, and L. Wang, 2026: A Cumulative Perspective on the Attribution of Low-Frequency Temperature Anomalies. *Journal of Geophysical Research*, To be submitted. 
 
 - **Xu, P.**, L. Han, and L. Wang, 2026: What Controls the Persistence of British–Baikal Corridor Events? *Journal of Climate.*, To be submitted. 
 
