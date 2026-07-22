@@ -13,7 +13,7 @@ date: 2020-06-21 18:52:29
 
 - Liu, X., Z. Zhu, S. Qiao, and **P. Xu**: A manipulator of the extreme precipitation in South China behind the tropical sea surface temperature: the polar front jet. *Communications Earth & Environment*. In revision
 
-- **Xu, P.**, L. Yuan, L. Wang, and J.Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, In revision.
+- **Xu, P.**, L. Yuan, L. Wang, and J. Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, In revision.
 
 - **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: [Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia](https://journals.ametsoc.org/view/journals/clim/39/12/JCLI-D-25-0316.1.xml). *Journal of Climate.*, **39**, 3419–3435.
 
