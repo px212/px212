@@ -15,7 +15,7 @@ date: 2020-06-21 18:52:29
 
 - **Xu, P.**, L. Yuan, L. Wang, and J.Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, In revision.
 
-- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: [Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia](https://journals.ametsoc.org/view/journals/clim/39/12/JCLI-D-25-0316.1.xml). *Journal of Climate.*, **39**，3419–3435.
+- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: [Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia](https://journals.ametsoc.org/view/journals/clim/39/12/JCLI-D-25-0316.1.xml). *Journal of Climate.*, **39**, 3419–3435.
 
 - **Xu, P.**, J. Screen, L. Wang, T. Woollings, H. Fan, M. Patterson and Z. Dong, 2025: [Impact of Asian Summer Monsoon on the 2021 Pacific Northwest Heatwave: *Can It? Did It?*](https://doi.org/10.1029/2025GL117205). *Geophys. Res. Lett.*, **48**, e2025GL117205.
 
