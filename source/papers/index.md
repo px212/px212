@@ -1,13 +1,25 @@
----
+<img width="432" height="29" alt="image" src="https://github.com/user-attachments/assets/f37b0b99-e843-4520-b436-972f4d1c7777" />---
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia. *Journal of Climate.*, accepted.
+- **Xu, P.**, L. Yuan, and L. Wang, 2026: A Cumulative Perspective on the Attribution of Low-Frequency Temperature Anomalies. *J. Geophys. Res.-Atmos.*, To be submitted. 
+
+- **Xu, P.**, L. Han, and L. Wang, 2026: What Controls the Persistence of British–Baikal Corridor Events? *Journal of Climate.*, To be submitted. 
+
+- **Xu, P.**, J. Methven, J. Screen, W. Chen, G. Vallis, X. Shen, and L. Wang, 2026: The Northern Hemisphere high-latitude baroclinic waveguide: formation and seasonality. Submitted.
+
+- Cui, W., W. Yang, X. Shen, M. Gao, **P. Xu**, W. Zhang, and L. Wang, 2026: A multi-dimensional characterization of cold waves affecting China and their variability. *Journal of Meteorological Research*. In revision.
+
+- Liu, X., Z. Zhu, S. Qiao, and P. Xu: A manipulator of the extreme precipitation in South China behind the tropical sea surface temperature: the polar front jet. *Communications Earth & Environment*. In revision
+
+- **Xu, P.**, L. Yuan, L. Wang, and J.Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, In revision.
+
+- **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: Seasonality of waveguide eleconnections along the summertime polar front jet over Eurasia. *Journal of Climate.*, **39**，3419–3435.
 
 - **Xu, P.**, J. Screen, L. Wang, T. Woollings, H. Fan, M. Patterson and Z. Dong, 2025: [Impact of Asian Summer Monsoon on the 2021 Pacific Northwest Heatwave: *Can It? Did It?*](https://doi.org/10.1029/2025GL117205). *Geophys. Res. Lett.*, **48**, e2025GL117205.
 
-- Xiao, H., **P. Xu**, L. Wang, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
+- Xiao, H., **P. Xu#**, L. Wang#, 2024: [The Unprecedented 2023 North China Heatwaves and Their S2S Predictability](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107642). *Geophys. Res. Lett.*, **51**, e2023GL107642.
 
 - 王林，**徐霈强**，2024：[北半球夏季急流遥相关：进展与展望](http://www.iapjournals.ac.cn/dqkx/cn/article/doi/10.3878/j.issn.1006-9895.2311.23322?viewType=HTML). *大气科学*，**48**(1), 287-304.
 
