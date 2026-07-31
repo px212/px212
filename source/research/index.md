@@ -31,13 +31,14 @@ date: 2020-07-10 18:09:14
 
 **学术兼职**
 - 中国气象学会动力气象学委员会学术秘书（2024-）
+- Reviewer, WMO [State of the Global Climate](https://wmo.int/publication-series/state-of-global-climate) Report (2026)
 - Member, IPCC Seventh Assessment Report (AR7) Early Career Researcher (ECR) Review Group (2026-)
-- Co-chair, [WCRP-Global Extremes Platform (GEP）](https://gep.wcrp-rifs.org/contact-group/)Contact Group (2025-)
+- Co-chair, [WCRP-Global Extremes Platform (GEP)](https://gep.wcrp-rifs.org/contact-group/) Contact Group (2025-)
 - Associate Editor, [Quarterly Journal of the Royal Meteorological Society](https://rmets.onlinelibrary.wiley.com/hub/journal/1477870X/editorial-board/editorial-board) (2024-)
 - Guest Editor, [Atmosphere](https://www.mdpi.com/journal/atmosphere/special_issues/SA29V8X5NR) Special Issue: Arctic Atmosphere–Sea Ice Interaction and Impacts
 - Leading Organizer, [JGR-Atmospheres](https://agupubs.onlinelibrary.wiley.com/hub/journal/21698996/call-for-papers/si-2024-000624) Special Issue: Extratropical Large-scale Atmospheric Circulation Variability and Extreme Events Across Scales: Understanding, Modeling, and Prediction
-- Leading Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales(Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
-- OSPP Judge, [EGU Generaly Assembly 2025](https://www.egu25.eu/)
+- Leading Convenor, [AOGS 2024 Annual Meeting](https://www.asiaoceania.org/aogs2024/public.asp?page=home.asp): Extratropical Large-scale Circulation Variability and Extreme Events Across Scales (Co-conveners: Dr. Yu Kosaka, Dr. Rachel White, Prof. Lin Wang, Prof. Son-Wook Yeh)
+- OSPP Judge, [EGU General Assembly 2025](https://www.egu25.eu/)
 - Co-chair of Local Organization Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - 成员，[南京大学地球物理流体力学学生实验室](http://www.njugfd.org/)
-- 期刊审稿人：*Journal of Atmospheric Sciences, Journal of Climate, Weather and Climate Dynamics, Journal of Geophysical Research-Atmospheres, Quarterly Journal of the Royal Meteorological Society, Geophysical Research Letters, Enviromental Research Letters, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, International Journal of Climatology, Weather and Climate Extremes, Atmospheric Sciences Letters, Enviromental Research Communications, The Innovation Geoscience* 等
+- 期刊审稿人：*Journal of Atmospheric Sciences, Journal of Climate, Weather and Climate Dynamics, Journal of Geophysical Research-Atmospheres, Quarterly Journal of the Royal Meteorological Society, Geophysical Research Letters, Environmental Research Letters, Advances in Atmospheric Sciences, npj Climate and Atmospheric Science, International Journal of Climatology, Weather and Climate Extremes, Atmospheric Sciences Letters, Environmental Research Communications, The Innovation Geoscience* 等
