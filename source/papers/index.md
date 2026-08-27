@@ -1,19 +1,19 @@
----
+<img width="432" height="46" alt="image" src="https://github.com/user-attachments/assets/8c7b8fe6-6bf3-461b-b100-6b6357fe9d81" />---
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Yuan, and L. Wang, 2026: A Cumulative Perspective on the Attribution of Low-Frequency Temperature Anomalies. *Journal of Geophysical Research*, To be submitted. 
+- **Xu, P.**, L. Yuan, and L. Wang, 2026: Record-Breaking 2026 Early-Winter Antarctic Peninsula Heatwave Amplified by Eastward-Shifting Tropical Convection, *Geophys. Res. Lett.*, submitted.
 
-- **Xu, P.**, L. Han, and L. Wang, 2026: What Controls the Persistence of British–Baikal Corridor Events? *Journal of Climate.*, To be submitted. 
+- **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian Time-Integrated Framework for Attributing Low-Frequency Temperature Anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
 
-- **Xu, P.**, J. Methven, J. Screen, W. Chen, G. Vallis, X. Shen, and L. Wang, 2026: The Northern Hemisphere high-latitude baroclinic waveguide: formation and seasonality. Submitted.
+- **Xu, P.**, J. Methven, J. Screen, W. Chen, G. Vallis, X. Shen, and L. Wang, 2026: The Northern Hemisphere high-latitude baroclinic waveguide: formation and seasonalit, submitted.
 
-- Cui, W., W. Yang, X. Shen, M. Gao, **P. Xu**, W. Zhang, and L. Wang, 2026: A multi-dimensional characterization of cold waves affecting China and their variability. *Journal of Meteorological Research*. In revision.
+- Liu, X., Z. Zhu, S. Qiao, and **P. Xu**: A manipulator of the extreme precipitation in South China behind the tropical sea surface temperature: the polar front jet. *Communications Earth & Environment*, in revision.
 
-- Liu, X., Z. Zhu, S. Qiao, and **P. Xu**: A manipulator of the extreme precipitation in South China behind the tropical sea surface temperature: the polar front jet. *Communications Earth & Environment*. In revision
+- **Xu, P.**, L. Yuan, L. Wang, and J. Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, in press.
 
-- **Xu, P.**, L. Yuan, L. Wang, and J. Zscheischler, 2026: Concurrent Eurasian heatwaves will intensify beyond mean warming. *Geophys. Res. Lett.*, In revision.
+- Cui, W., W. Yang, X. Shen, M. Gao, **P. Xu**, W. Zhang, and L. Wang, 2026: [A multi-dimensional characterization of cold waves affecting China and their variability](https://jmr.cmsjournal.net/article/doi/10.1007/s13351-027-6109-x). *Journal of Meteorological Research*. DOI: 10.1007/s13351-027-6109-x
 
 - **Xu, P.**, L. Yuan, L. Wang, and Z. Dong, 2026: [Seasonality of waveguide teleconnections along the summertime polar front jet over Eurasia](https://journals.ametsoc.org/view/journals/clim/39/12/JCLI-D-25-0316.1.xml). *Journal of Climate.*, **39**, 3419–3435.
 
