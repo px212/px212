@@ -1,4 +1,4 @@
-<img width="432" height="46" alt="image" src="https://github.com/user-attachments/assets/8c7b8fe6-6bf3-461b-b100-6b6357fe9d81" />---
+---
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
