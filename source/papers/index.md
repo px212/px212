@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- **Xu, P.**, L. Yuan, and L. Wang, 2026: Record-Breaking 2026 Early-Winter Antarctic Peninsula Heatwave Amplified by Eastward-Shifting Tropical Convection, *Geophys. Res. Lett.*, submitted.
+- **Xu, P.**, H. Fang, Z. Dong, and L. Wang, 2026: Record-Breaking 2026 Early-Winter Antarctic Peninsula Heatwave Amplified by Eastward-Shifting Tropical Convection, *Geophys. Res. Lett.*, submitted.
 
 - **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian Time-Integrated Framework for Attributing Low-Frequency Temperature Anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
 
