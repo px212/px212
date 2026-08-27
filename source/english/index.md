@@ -99,7 +99,7 @@ A full list of his publications and citations can be found [here](https://schola
 
 ## PUBLICATIONS
 
-- **Xu, P.**, L. Yuan, and L. Wang, 2026: Record-Breaking 2026 Early-Winter Antarctic Peninsula Heatwave Amplified by Eastward-Shifting Tropical Convection, *Geophys. Res. Lett.*, submitted.
+- **Xu, P.**, H. Fang, Z. Dong, and L. Wang, 2026: Record-Breaking 2026 Early-Winter Antarctic Peninsula Heatwave Amplified by Eastward-Shifting Tropical Convection, *Geophys. Res. Lett.*, submitted.
 
 - **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian Time-Integrated Framework for Attributing Low-Frequency Temperature Anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
 
