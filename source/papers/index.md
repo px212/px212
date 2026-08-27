@@ -7,7 +7,7 @@ date: 2020-06-21 18:52:29
 
 - **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian time-integrated framework for attributing low-frequency temperature anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
 
-- **Xu, P.**, J. Methven, J. Screen, W. Chen, G. Vallis, X. Shen, and L. Wang, 2026: The Northern Hemisphere high-latitude baroclinic waveguide: formation and seasonalit, submitted.
+- **Xu, P.**, J. Methven, J. Screen, W. Chen, G. Vallis, X. Shen, and L. Wang, 2026: The Northern Hemisphere high-latitude baroclinic waveguide: formation and seasonality, submitted.
 
 - Liu, X., Z. Zhu, S. Qiao, and **P. Xu**: A manipulator of the extreme precipitation in South China behind the tropical sea surface temperature: the polar front jet. *Communications Earth & Environment*, in revision.
 
