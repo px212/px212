@@ -41,7 +41,6 @@ A full list of his publications and citations can be found [here](https://schola
 - **Leiye Yuan**, PhD student. Leiye's work focuses on multiscale interactions in temperature extremes. (co-supervised with Prof. Lin Wang)
 - **Linjun Han**, PhD student. Linjun's work focuses on the dynamics of mid-latitude atmospheric circulation. (co-supervised with Prof. Lin Wang)
 - **Yunfei Cao**, PhD student. Yunfei's work focuses on attributing recent climate changes in the mid-latitudes. (co-supervised with Prof. Lin Wang)
-- **Tianyuehan Zhou**, PhD student. Yuehan's work focuses on the variability of the Siberian High. (co-supervised with Prof. Lin Wang)
 - **Zihan Wang**, PhD student. Zihan began his PhD program in September 2025.
 - **Yayihan Zhang**, Master student.
 - **Junyu Wu**, Undergraduate student.
