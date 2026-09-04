@@ -97,6 +97,7 @@ A full list of his publications and citations can be found [here](https://schola
 
 
 ## PUBLICATIONS
+- **Xu, P.**, L. Han, and L. Wang, 2026: Contrasting Life Cycles of British–Baikal Corridor Events: Energetics and North Atlantic SST Precursors, *Journal of Climate*, submitted.
 
 - **Xu, P.**, H. Fang, Z. Dong, and L. Wang, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection, Geophys. Res. Lett., submitted.
 
