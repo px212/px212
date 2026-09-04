@@ -3,7 +3,7 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
-- Chen, Y, L. Wang, K. Hu, and **P. Xu**, 2026: How Do Stationary Eddies Force Zonal-Mean Momentum in the Tropics, *Journal of Atmospheric Sciences*, submitted
+- Chen, Y, L. Wang, K. Hu, and **P. Xu**, 2026: How do stationary eddies force zonal-mean momentum in the tropics, *Journal of Atmospheric Sciences*, submitted
 
 - **Xu, P.**, L. Han, and L. Wang, 2026: Contrasting Life Cycles of British–Baikal Corridor Events: Energetics and North Atlantic SST Precursors, *Journal of Climate*, submitted.
 
