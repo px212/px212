@@ -97,7 +97,7 @@ A full list of his publications and citations can be found [here](https://schola
 
 
 ## PUBLICATIONS
-- Chen, Y, L. Wang, K. Hu, and P. Xu, 2026: How do stationary eddies force zonal-mean momentum in the tropics, Journal of Atmospheric Sciences, submitted
+- Chen, Y, L. Wang, K. Hu, and P. Xu, 2026: How do stationary eddies force zonal-mean momentum in the tropics? *Journal of Atmospheric Sciences*, submitted
 
 - **Xu, P.**, L. Han, and L. Wang, 2026: Contrasting life cycles of British–Baikal Corridor events: Energetics and North Atlantic SST precursors, *Journal of Climate*, submitted.
 
