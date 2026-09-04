@@ -6,7 +6,7 @@ date: 2020-06-21 18:52:29
 - Chen, Y, L. Wang, K. Hu, and **P. Xu**, 2026: How do stationary eddies force zonal-mean momentum in the tropics, *Journal of Atmospheric Sciences*, submitted
 
 - **Xu, P.**, L. Han, and L. Wang, 2026: Contrasting life cycles of British–Baikal Corridor events: Energetics and North Atlantic SST precursors, *Journal of Climate*, submitted.
-- 
+
 - **Xu, P.**, H. Fang, Z. Dong, and L. Wang, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection, *Geophys. Res. Lett.*, submitted.
 
 - **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian time-integrated framework for attributing low-frequency temperature anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
