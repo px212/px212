@@ -3,6 +3,8 @@ title: 学术论文
 date: 2020-06-21 18:52:29
 ---
 
+- **Xu, P.**, L. Han, and L. Wang, 2026: Contrasting Life Cycles of British–Baikal Corridor Events: Energetics and North Atlantic SST Precursors, *Journal of Climate*, submitted
+
 - **Xu, P.**, H. Fang, Z. Dong, and L. Wang, 2026: Record-breaking 2026 early-winter Antarctic Peninsula heatwave amplified by eastward-shifting tropical convection, *Geophys. Res. Lett.*, submitted.
 
 - **Xu, P.**, L. Yuan, and L. Wang, 2026: A Eulerian time-integrated framework for attributing low-frequency temperature anomalies. *Journal of Geophysical Research-Atmospheres*, submitted.
