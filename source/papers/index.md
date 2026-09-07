@@ -2,6 +2,7 @@
 title: 学术论文
 date: 2020-06-21 18:52:29
 ---
+- Chen, W., P. Hu, T. Ma, R. Wu, L. Wang, J. Piao, S. Chen, **P. Xu**. L. Chen, Q. Cai, and R. Zhang, 2026: Understanding variability and change in the East Asian monsoon evolution and associated extreme events in a warming climate, *Advances in Atmospheric Sciences*, submitted
 
 - Chen, Y, L. Wang, K. Hu, and **P. Xu**, 2026: How do stationary eddies force zonal-mean momentum in the tropics? *Journal of the Atmospheric Sciences*, submitted
 
