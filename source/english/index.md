@@ -82,7 +82,7 @@ A full list of his publications and citations can be found [here](https://schola
 - OSPP Judge, [EGU General Assembly 2025](https://www.egu25.eu/)
 - Student Presentation Awards Committee, [IAMAS-ICDM Workshop 2024](https://icdm2024.nju.edu.cn/#/)
 - Member, [Geophysical Fluid Dynamics Lab](http://www.njugfd.org/) at Nanjing University
-- Peer reviewer for *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Geophysical Research Letters*, *Environmental Research Letters*, *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Atmospheric Sciences Letters*, *Environmental Research Communications*, *The Innovation Geoscience* etc.
+- Peer reviewer for *Science Advances*, *Journal of Atmospheric Sciences*, *Journal of Climate*, *Weather and Climate Dynamics*, *Journal of Geophysical Research-Atmospheres*, *Quarterly Journal of the Royal Meteorological Society*, *Geophysical Research Letters*, *Environmental Research Letters*, *Advances in Atmospheric Sciences*, *npj Climate and Atmospheric Science*, *International Journal of Climatology*, *Weather and Climate Extremes*, *Atmospheric Sciences Letters*, *Environmental Research Communications*, *The Innovation Geoscience* etc.
 
 
 ## HONORS
